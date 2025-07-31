@@ -1,4 +1,33 @@
 {
+  "JavaScript": [
+    {
+      "id": 975233337,
+      "node_id": "R_kgDOOiDhOQ",
+      "name": "SubsTracker",
+      "full_name": "wangwangit/SubsTracker",
+      "owner": {
+        "login": "wangwangit",
+        "id": 22621145,
+        "avatar_url": "https://avatars.githubusercontent.com/u/22621145?v=4",
+        "url": "https://api.github.com/users/wangwangit",
+        "html_url": "https://github.com/wangwangit"
+      },
+      "html_url": "https://github.com/wangwangit/SubsTracker",
+      "description": "基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。",
+      "url": "https://api.github.com/repos/wangwangit/SubsTracker",
+      "languages_url": "https://api.github.com/repos/wangwangit/SubsTracker/languages",
+      "created_at": "2025-04-30T01:58:42Z",
+      "updated_at": "2025-07-31T03:47:48Z",
+      "git_url": "git://github.com/wangwangit/SubsTracker.git",
+      "ssh_url": "git@github.com:wangwangit/SubsTracker.git",
+      "clone_url": "https://github.com/wangwangit/SubsTracker.git",
+      "homepage": null,
+      "stargazers_count": 922,
+      "watchers_count": 922,
+      "language": "JavaScript",
+      "topics": []
+    }
+  ],
   "HTML": [
     {
       "id": 808144141,
@@ -17,13 +46,13 @@
       "url": "https://api.github.com/repos/DigitalPlatDev/FreeDomain",
       "languages_url": "https://api.github.com/repos/DigitalPlatDev/FreeDomain/languages",
       "created_at": "2024-05-30T13:23:00Z",
-      "updated_at": "2025-07-30T08:15:33Z",
+      "updated_at": "2025-07-31T03:54:44Z",
       "git_url": "git://github.com/DigitalPlatDev/FreeDomain.git",
       "ssh_url": "git@github.com:DigitalPlatDev/FreeDomain.git",
       "clone_url": "https://github.com/DigitalPlatDev/FreeDomain.git",
       "homepage": "https://domain.digitalplat.org",
-      "stargazers_count": 73855,
-      "watchers_count": 73855,
+      "stargazers_count": 74124,
+      "watchers_count": 74124,
       "language": "HTML",
       "topics": [
         "digitalplat",
