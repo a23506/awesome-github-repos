@@ -1,6 +1,36 @@
 {
   "JavaScript": [
     {
+      "id": 348915997,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNDg5MTU5OTc=",
+      "name": "h5-game-collection",
+      "full_name": "hackycy/h5-game-collection",
+      "owner": {
+        "login": "hackycy",
+        "id": 26972260,
+        "avatar_url": "https://avatars.githubusercontent.com/u/26972260?v=4",
+        "url": "https://api.github.com/users/hackycy",
+        "html_url": "https://github.com/hackycy"
+      },
+      "html_url": "https://github.com/hackycy/h5-game-collection",
+      "description": "🎮 淘宝购买的80款H5小游戏合集",
+      "url": "https://api.github.com/repos/hackycy/h5-game-collection",
+      "languages_url": "https://api.github.com/repos/hackycy/h5-game-collection/languages",
+      "created_at": "2021-03-18T02:29:21Z",
+      "updated_at": "2025-08-01T02:20:09Z",
+      "git_url": "git://github.com/hackycy/h5-game-collection.git",
+      "ssh_url": "git@github.com:hackycy/h5-game-collection.git",
+      "clone_url": "https://github.com/hackycy/h5-game-collection.git",
+      "homepage": "https://blog.si-yee.com/h5-game-collection/",
+      "stargazers_count": 94,
+      "watchers_count": 94,
+      "language": "JavaScript",
+      "topics": [
+        "game",
+        "html"
+      ]
+    },
+    {
       "id": 975233337,
       "node_id": "R_kgDOOiDhOQ",
       "name": "SubsTracker",
@@ -17,18 +47,48 @@
       "url": "https://api.github.com/repos/wangwangit/SubsTracker",
       "languages_url": "https://api.github.com/repos/wangwangit/SubsTracker/languages",
       "created_at": "2025-04-30T01:58:42Z",
-      "updated_at": "2025-07-31T03:47:48Z",
+      "updated_at": "2025-08-01T04:03:27Z",
       "git_url": "git://github.com/wangwangit/SubsTracker.git",
       "ssh_url": "git@github.com:wangwangit/SubsTracker.git",
       "clone_url": "https://github.com/wangwangit/SubsTracker.git",
       "homepage": null,
-      "stargazers_count": 922,
-      "watchers_count": 922,
+      "stargazers_count": 932,
+      "watchers_count": 932,
       "language": "JavaScript",
       "topics": []
     }
   ],
   "HTML": [
+    {
+      "id": 32484381,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "owner": {
+        "login": "ripienaar",
+        "id": 82342,
+        "avatar_url": "https://avatars.githubusercontent.com/u/82342?v=4",
+        "url": "https://api.github.com/users/ripienaar",
+        "html_url": "https://github.com/ripienaar"
+      },
+      "html_url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "url": "https://api.github.com/repos/ripienaar/free-for-dev",
+      "languages_url": "https://api.github.com/repos/ripienaar/free-for-dev/languages",
+      "created_at": "2015-03-18T21:06:26Z",
+      "updated_at": "2025-08-01T04:20:24Z",
+      "git_url": "git://github.com/ripienaar/free-for-dev.git",
+      "ssh_url": "git@github.com:ripienaar/free-for-dev.git",
+      "clone_url": "https://github.com/ripienaar/free-for-dev.git",
+      "homepage": "https://free-for.dev/",
+      "stargazers_count": 108200,
+      "watchers_count": 108200,
+      "language": "HTML",
+      "topics": [
+        "awesome-list",
+        "free-for-developers"
+      ]
+    },
     {
       "id": 808144141,
       "node_id": "R_kgDOMCtNDQ",
@@ -46,13 +106,13 @@
       "url": "https://api.github.com/repos/DigitalPlatDev/FreeDomain",
       "languages_url": "https://api.github.com/repos/DigitalPlatDev/FreeDomain/languages",
       "created_at": "2024-05-30T13:23:00Z",
-      "updated_at": "2025-07-31T03:54:44Z",
+      "updated_at": "2025-08-01T04:19:55Z",
       "git_url": "git://github.com/DigitalPlatDev/FreeDomain.git",
       "ssh_url": "git@github.com:DigitalPlatDev/FreeDomain.git",
       "clone_url": "https://github.com/DigitalPlatDev/FreeDomain.git",
       "homepage": "https://domain.digitalplat.org",
-      "stargazers_count": 74124,
-      "watchers_count": 74124,
+      "stargazers_count": 74484,
+      "watchers_count": 74484,
       "language": "HTML",
       "topics": [
         "digitalplat",
@@ -62,6 +122,134 @@
         "domains",
         "free",
         "freedomain"
+      ]
+    }
+  ],
+  "TypeScript": [
+    {
+      "id": 998796026,
+      "node_id": "R_kgDOO4hq-g",
+      "name": "mcp-chrome",
+      "full_name": "hangwin/mcp-chrome",
+      "owner": {
+        "login": "hangwin",
+        "id": 12791725,
+        "avatar_url": "https://avatars.githubusercontent.com/u/12791725?v=4",
+        "url": "https://api.github.com/users/hangwin",
+        "html_url": "https://github.com/hangwin"
+      },
+      "html_url": "https://github.com/hangwin/mcp-chrome",
+      "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+      "url": "https://api.github.com/repos/hangwin/mcp-chrome",
+      "languages_url": "https://api.github.com/repos/hangwin/mcp-chrome/languages",
+      "created_at": "2025-06-09T09:07:06Z",
+      "updated_at": "2025-08-01T03:35:10Z",
+      "git_url": "git://github.com/hangwin/mcp-chrome.git",
+      "ssh_url": "git@github.com:hangwin/mcp-chrome.git",
+      "clone_url": "https://github.com/hangwin/mcp-chrome.git",
+      "homepage": "",
+      "stargazers_count": 4467,
+      "watchers_count": 4467,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "id": 949425801,
+      "node_id": "R_kgDOOJcWiQ",
+      "name": "Feishu-MCP",
+      "full_name": "cso1z/Feishu-MCP",
+      "owner": {
+        "login": "cso1z",
+        "id": 18643541,
+        "avatar_url": "https://avatars.githubusercontent.com/u/18643541?v=4",
+        "url": "https://api.github.com/users/cso1z",
+        "html_url": "https://github.com/cso1z"
+      },
+      "html_url": "https://github.com/cso1z/Feishu-MCP",
+      "description": "为 Cursor、Windsurf、Cline 和其他 AI 驱动的编码工具提供访问、编辑和结构化处理飞书文档的能力，基于 Model Context Protocol 服务器实现。",
+      "url": "https://api.github.com/repos/cso1z/Feishu-MCP",
+      "languages_url": "https://api.github.com/repos/cso1z/Feishu-MCP/languages",
+      "created_at": "2025-03-16T12:44:39Z",
+      "updated_at": "2025-08-01T01:58:48Z",
+      "git_url": "git://github.com/cso1z/Feishu-MCP.git",
+      "ssh_url": "git@github.com:cso1z/Feishu-MCP.git",
+      "clone_url": "https://github.com/cso1z/Feishu-MCP.git",
+      "homepage": "",
+      "stargazers_count": 113,
+      "watchers_count": 113,
+      "language": "TypeScript",
+      "topics": [
+        "feishu",
+        "lark",
+        "mcp"
+      ]
+    }
+  ],
+  "Go": [
+    {
+      "id": 1014892840,
+      "node_id": "R_kgDOPH4JKA",
+      "name": "Domain_IP_Selector",
+      "full_name": "ccxkai233/Domain_IP_Selector",
+      "owner": {
+        "login": "ccxkai233",
+        "id": 127368010,
+        "avatar_url": "https://avatars.githubusercontent.com/u/127368010?v=4",
+        "url": "https://api.github.com/users/ccxkai233",
+        "html_url": "https://github.com/ccxkai233"
+      },
+      "html_url": "https://github.com/ccxkai233/Domain_IP_Selector",
+      "description": "通过信誉域名快速优选IP",
+      "url": "https://api.github.com/repos/ccxkai233/Domain_IP_Selector",
+      "languages_url": "https://api.github.com/repos/ccxkai233/Domain_IP_Selector/languages",
+      "created_at": "2025-07-06T16:00:15Z",
+      "updated_at": "2025-08-01T01:56:24Z",
+      "git_url": "git://github.com/ccxkai233/Domain_IP_Selector.git",
+      "ssh_url": "git@github.com:ccxkai233/Domain_IP_Selector.git",
+      "clone_url": "https://github.com/ccxkai233/Domain_IP_Selector.git",
+      "homepage": "",
+      "stargazers_count": 20,
+      "watchers_count": 20,
+      "language": "Go",
+      "topics": []
+    }
+  ],
+  "C#": [
+    {
+      "id": 1000089666,
+      "node_id": "R_kgDOO5woQg",
+      "name": "LottieViewConvert",
+      "full_name": "SwaggyMacro/LottieViewConvert",
+      "owner": {
+        "login": "SwaggyMacro",
+        "id": 38845682,
+        "avatar_url": "https://avatars.githubusercontent.com/u/38845682?v=4",
+        "url": "https://api.github.com/users/SwaggyMacro",
+        "html_url": "https://github.com/SwaggyMacro"
+      },
+      "html_url": "https://github.com/SwaggyMacro/LottieViewConvert",
+      "description": "A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。",
+      "url": "https://api.github.com/repos/SwaggyMacro/LottieViewConvert",
+      "languages_url": "https://api.github.com/repos/SwaggyMacro/LottieViewConvert/languages",
+      "created_at": "2025-06-11T08:48:10Z",
+      "updated_at": "2025-08-01T01:23:02Z",
+      "git_url": "git://github.com/SwaggyMacro/LottieViewConvert.git",
+      "ssh_url": "git@github.com:SwaggyMacro/LottieViewConvert.git",
+      "clone_url": "https://github.com/SwaggyMacro/LottieViewConvert.git",
+      "homepage": "",
+      "stargazers_count": 240,
+      "watchers_count": 240,
+      "language": "C#",
+      "topics": [
+        "lottie",
+        "lottie-convert",
+        "sticker",
+        "sticker-downloader",
+        "sticker-export",
+        "telegram",
+        "telegram-sticker",
+        "tgs",
+        "tgs-convert"
       ]
     }
   ]
