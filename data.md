@@ -2,16 +2,34 @@
 
 ## Table of Contents
 
+*   [Java](#java)
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Go](#go)
 *   [CSS](#css)
 *   [Shell](#shell)
-*   [Java](#java)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
+
+## Java
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
+
+## JavaScript
+
+*   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+
+*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
+
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+
+*   [hackycy/h5-game-collection](https://github.com/hackycy/h5-game-collection) - 🎮 淘宝购买的80款H5小游戏合集
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 ## Python
 
@@ -86,20 +104,6 @@
 ## Shell
 
 *   [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
-
-## Java
-
-*   [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
-
-## JavaScript
-
-*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
-
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-
-*   [hackycy/h5-game-collection](https://github.com/hackycy/h5-game-collection) - 🎮 淘宝购买的80款H5小游戏合集
-
-*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 ## miscellaneous
 
