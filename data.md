@@ -41,6 +41,8 @@
 
 *   [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7\* 24-hour comprehensive and in-depth protection.
 
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
+
 ## TypeScript
 
 *   [FilenCloudDienste/filen-webdav](https://github.com/FilenCloudDienste/filen-webdav) - A package to start a WebDAV server for a single or multiple Filen accounts
@@ -64,8 +66,6 @@
 ## HTML
 
 *   [podcctv/vps-value-calculator](https://github.com/podcctv/vps-value-calculator) - Another VPS value calculation
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
 
 *   [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 
