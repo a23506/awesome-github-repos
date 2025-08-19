@@ -53,7 +53,7 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [Yohann0617/tg-disk](https://github.com/Yohann0617/tg-disk) - 基于Telegram的♾️️无限容量网盘/图床，不限制文件格式，不限制文件大小（大文件会分块上传），不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。 文件都存储在Telegram☁️端，拥有良好的安全性🔒和持久性。文件上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
+*   [Yohann0617/tg-disk](https://github.com/Yohann0617/tg-disk) - tgNetDisc重构升级版，基于Telegram的♾️️无限容量网盘/图床，不限制文件格式，不限制文件大小（大文件会分块上传），不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。 文件都存储在Telegram☁️端，拥有良好的安全性🔒和持久性。文件上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
 
 *   [fatedier/fft](https://github.com/fatedier/fft) - A fast distributed file transfer.
 
