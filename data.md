@@ -2,18 +2,50 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [HTML](#html)
 *   [Python](#python)
 *   [Go](#go)
-*   [HTML](#html)
 *   [PHP](#php)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [C++](#c)
-*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c-1)
+
+## JavaScript
+
+*   [kamanfaiz/CF-Server-AutoCheck](https://github.com/kamanfaiz/CF-Server-AutoCheck) - 采用Cloudflare的workers的方式，部署服务器监控系统，帮助用户进行服务器到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
+
+*   [kamanfaiz/CF-Domain-AutoCheck](https://github.com/kamanfaiz/CF-Domain-AutoCheck) - 采用Cloudflare的workers的方式，部署域名监控系统，帮助用户进行域名到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
+
+*   [xiaolinbaba/Madopic](https://github.com/xiaolinbaba/Madopic) - Madopic (Markdown to Picture) 精美的 Markdown 转图片工具。让你的知识更有画面感！
+
+*   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+
+*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
+
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+
+*   [hackycy/h5-game-collection](https://github.com/hackycy/h5-game-collection) - 🎮 淘宝购买的80款H5小游戏合集
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+
+## HTML
+
+*   [huarzone/Text2img-Cloudflare-Workers](https://github.com/huarzone/Text2img-Cloudflare-Workers) - ✨ 基于 CloudFlare AI & Workers 的免费在线文生图服务
+
+*   [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
+
+*   [podcctv/vps-value-calculator](https://github.com/podcctv/vps-value-calculator) - Another VPS value calculation
+
+*   [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 
 ## Python
 
@@ -63,18 +95,6 @@
 
 *   [ccxkai233/Domain\_IP\_Selector](https://github.com/ccxkai233/Domain_IP_Selector) - 通过信誉域名快速优选IP
 
-## HTML
-
-*   [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
-
-*   [podcctv/vps-value-calculator](https://github.com/podcctv/vps-value-calculator) - Another VPS value calculation
-
-*   [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
 ## PHP
 
 *   [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
@@ -110,20 +130,6 @@
 ## C++
 
 *   [j67678/ZDesk](https://github.com/j67678/ZDesk) -
-
-## JavaScript
-
-*   [xiaolinbaba/Madopic](https://github.com/xiaolinbaba/Madopic) - Madopic (Markdown to Picture) 精美的 Markdown 转图片工具。让你的知识更有画面感！
-
-*   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
-
-*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
-
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-
-*   [hackycy/h5-game-collection](https://github.com/hackycy/h5-game-collection) - 🎮 淘宝购买的80款H5小游戏合集
-
-*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 ## Java
 
