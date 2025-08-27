@@ -17,6 +17,8 @@
 
 ## JavaScript
 
+*   [2211898719/termius-plus](https://github.com/2211898719/termius-plus) - 模仿termius的服务器运维工具
+
 *   [chawuciren/cloudflare-mail-server](https://github.com/chawuciren/cloudflare-mail-server) - 开源企业邮箱管理系统 | 基于Cloudflare Email Routing的多域名邮箱管理平台
 
 *   [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
@@ -87,7 +89,7 @@
 
 *   [desec-io/desec-stack](https://github.com/desec-io/desec-stack) - Backbone of the deSEC Free Secure DNS Hosting Service
 
-*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化(mac版本>=v9.27.2暂不可用)
+*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
 
 *   [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7\* 24-hour comprehensive and in-depth protection.
 
