@@ -45,7 +45,7 @@
 
 ## miscellaneous
 
-*   [wyhfx/sehuatang-crawler](https://github.com/wyhfx/sehuatang-crawler) - 色花堂磁力链接爬虫工具 - 支持多主题爬取、代理设置、定时任务和实时日志监控
+*   [wyhfx/sehuatang-crawler](https://github.com/wyhfx/sehuatang-crawler) - 色花堂磁力链接爬虫工具 - 支持多主题爬取、可视化番号库管理、数据交换、磁力推送至qb和cd2下载
 
 *   [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置
 
