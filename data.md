@@ -17,6 +17,8 @@
 
 ## C++
 
+*   [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
+
 *   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 
 *   [j67678/ZDesk](https://github.com/j67678/ZDesk) -
