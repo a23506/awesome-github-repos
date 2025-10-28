@@ -2,18 +2,73 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
-*   [Go](#go)
 *   [Java](#java)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [CSS](#css)
-*   [C#](#c-1)
+
+## Go
+
+*   [uhdnow/emby\_ext\_domains](https://github.com/uhdnow/emby_ext_domains) - 一个轻量级的 Go 应用，用于扩展 Emby 媒体服务器的功能。提供了一个 RESTful API 端点，允许客户端通过 Emby Token 验证获取配置的服务器域名列表。
+
+*   [prometheus/influxdb\_exporter](https://github.com/prometheus/influxdb_exporter) - A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption
+
+*   [prometheus/prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
+
+*   [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
+
+*   [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
+
+*   [prometheus/mysqld\_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
+
+*   [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
+
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+
+*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+
+*   [DullJZ/s3-balance](https://github.com/DullJZ/s3-balance) - S3对象存储自动负载均衡，向外暴露统一S3接口
+
+*   [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
+
+*   [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
+
+*   [fengyuanluo/firemailplus](https://github.com/fengyuanluo/firemailplus) - 一个全功能的WEB邮件客户端
+
+*   [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+*   [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
+
+*   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [SianHH/gostc-open](https://github.com/SianHH/gostc-open) - 基于frp开发的内网穿透管理工具，支持速率限制、中心化配置，与nps一样的web管理方案，支持多节点、多用户，有简单的积分兑换套餐方案
+
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [Yohann0617/tg-disk](https://github.com/Yohann0617/tg-disk) - tgNetDisc重构升级版，基于Telegram的♾️️无限容量网盘/图床，不限制文件格式，不限制文件大小（大文件会分块上传），不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。 文件都存储在Telegram☁️端，拥有良好的安全性🔒和持久性。文件上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
+
+*   [fatedier/fft](https://github.com/fatedier/fft) - A fast distributed file transfer.
+
+*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ## Python
 
@@ -87,8 +142,6 @@
 
 *   [hackycy/h5-game-collection](https://github.com/hackycy/h5-game-collection) - 🎮 淘宝购买的80款H5小游戏合集
 
-*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
-
 ## PHP
 
 *   [JanePHPDev/ZuzShortURL](https://github.com/JanePHPDev/ZuzShortURL) - A next-generation short-link SaaS solution built on PHP+PostgreSQL and tailored for entrepreneurial teams, e-commerce platforms, and small and medium-sized enterprises
@@ -130,50 +183,6 @@
 *   [FilenCloudDienste/filen-web](https://github.com/FilenCloudDienste/filen-web) - Web and Desktop Frontend for Filen
 
 *   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-
-*   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
-
-*   [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) - 为 Cursor、Windsurf、Cline 和其他 AI 驱动的编码工具提供访问、编辑和结构化处理飞书文档的能力，基于 Model Context Protocol 服务器实现。
-
-## Go
-
-*   [DullJZ/s3-balance](https://github.com/DullJZ/s3-balance) - S3对象存储自动负载均衡，向外暴露统一S3接口
-
-*   [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
-
-*   [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
-
-*   [fengyuanluo/firemailplus](https://github.com/fengyuanluo/firemailplus) - 一个全功能的WEB邮件客户端
-
-*   [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
-
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-
-*   [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
-
-*   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-*   [SianHH/gostc-open](https://github.com/SianHH/gostc-open) - 基于frp开发的内网穿透管理工具，支持速率限制、中心化配置，与nps一样的web管理方案，支持多节点、多用户，有简单的积分兑换套餐方案
-
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
-
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
-
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [Yohann0617/tg-disk](https://github.com/Yohann0617/tg-disk) - tgNetDisc重构升级版，基于Telegram的♾️️无限容量网盘/图床，不限制文件格式，不限制文件大小（大文件会分块上传），不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。 文件都存储在Telegram☁️端，拥有良好的安全性🔒和持久性。文件上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
-
-*   [fatedier/fft](https://github.com/fatedier/fft) - A fast distributed file transfer.
-
-*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
-
-*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-
-*   [ccxkai233/Domain\_IP\_Selector](https://github.com/ccxkai233/Domain_IP_Selector) - 通过信誉域名快速优选IP
 
 ## Java
 
@@ -217,10 +226,6 @@
 
 *   [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
 ## Shell
 
 *   [ONLYOFFICE/Docker-DocumentServer](https://github.com/ONLYOFFICE/Docker-DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
@@ -230,7 +235,3 @@
 ## CSS
 
 *   [xinycai/traffic\_deplete](https://github.com/xinycai/traffic_deplete) - 流量消耗器
-
-## C\#
-
-*   [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert) - A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
