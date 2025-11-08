@@ -12,7 +12,7 @@
 *   [Shell](#shell)
 *   [Swift](#swift)
 *   [C++](#c-1)
-*   [Rust](#rust)
+*   [Vue](#vue)
 *   [PHP](#php)
 *   [Java](#java)
 *   [HTML](#html)
@@ -219,7 +219,7 @@
 
 *   [j67678/ZDesk](https://github.com/j67678/ZDesk) -
 
-## Rust
+## Vue
 
 *   [chen-zeong/DTV](https://github.com/chen-zeong/DTV) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
