@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [PHP](#php)
 *   [Vim Snippet](#vim-snippet)
 *   [Go](#go)
@@ -12,19 +13,28 @@
 *   [Svelte](#svelte)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
-*   [Shell](#shell)
 *   [Swift](#swift)
 *   [C++](#c-1)
 *   [Java](#java)
 *   [HTML](#html)
+
+## Shell
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
+
+*   [nullbyte-lab/wechat-multi-open](https://github.com/nullbyte-lab/wechat-multi-open) - macOS 微信多开终极解决方案 - 交互式管理工具
+
+*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [faithleysath/fuckit.sh](https://github.com/faithleysath/fuckit.sh) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
 
 ## PHP
 
 *   [976853694/cloudflare-DNS](https://github.com/976853694/cloudflare-DNS) - 基于cloudflareAPI开发的DNS域名分发系统
 
 *   [JanePHPDev/ZuzShortURL](https://github.com/JanePHPDev/ZuzShortURL) - A next-generation short-link SaaS solution built on PHP+PostgreSQL and tailored for entrepreneurial teams, e-commerce platforms, and small and medium-sized enterprises
-
-*   [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 
 ## Vim Snippet
 
@@ -209,16 +219,6 @@
 *   [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 
 *   [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-
-## Shell
-
-*   [nullbyte-lab/wechat-multi-open](https://github.com/nullbyte-lab/wechat-multi-open) - macOS 微信多开终极解决方案 - 交互式管理工具
-
-*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-*   [faithleysath/fuckit.sh](https://github.com/faithleysath/fuckit.sh) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
 
 ## Swift
 
