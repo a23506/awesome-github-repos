@@ -63,7 +63,7 @@
 
 *   [saitomikuya/office365-manager](https://github.com/saitomikuya/office365-manager) - 这是一个基于 Flask 和 MSAL 的 Web 应用，用于集中管理多个 Microsoft 365/Office 365 租户中的用户、角色和订阅。界面支持中文，具备权限管理、角色分配、订阅管理、组织切换等功能。
 
-*   [Hamster-Prime/Telegram\_Anti-harassment\_two-way\_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) -
+*   [Hamster-Prime/Telegram\_Anti-harassment\_two-way\_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) - 一个功能强大且易于部署的 Telegram 双向聊天机器人
 
 *   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
