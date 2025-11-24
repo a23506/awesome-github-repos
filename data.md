@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
-*   [C](#c)
-*   [Dart](#dart)
 *   [TypeScript](#typescript)
-*   [Python](#python)
-*   [C++](#c-1)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
+*   [Jinja](#jinja)
+*   [C](#c)
+*   [Dart](#dart)
+*   [Python](#python)
+*   [C++](#c-1)
 *   [Rust](#rust)
 *   [C#](#c-2)
 *   [JavaScript](#javascript)
@@ -21,19 +22,9 @@
 *   [Svelte](#svelte)
 *   [Swift](#swift)
 
-## C
-
-*   [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
-
-*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
-
-*   [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP to Unicast HTTP stream convertor
-
-## Dart
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
-
 ## TypeScript
+
+*   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -49,51 +40,11 @@
 
 *   [selaky/discourse-new-tab](https://github.com/selaky/discourse-new-tab) - 在新标签页打开Discourse的帖子
 
-*   [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
-
-*   [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
-
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-
-## Python
-
-*   [zhumengkang/agsb](https://github.com/zhumengkang/agsb) -
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [saitomikuya/office365-manager](https://github.com/saitomikuya/office365-manager) - 这是一个基于 Flask 和 MSAL 的 Web 应用，用于集中管理多个 Microsoft 365/Office 365 租户中的用户、角色和订阅。界面支持中文，具备权限管理、角色分配、订阅管理、组织切换等功能。
-
-*   [Hamster-Prime/Telegram\_Anti-harassment\_two-way\_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) - 一个功能强大且易于部署的 Telegram 双向聊天机器人
-
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
-*   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
-
-*   [batianVolyc/telegram-mcp-server](https://github.com/batianVolyc/telegram-mcp-server) - Remote control AI coding assistants (Claude Code/Codex) via Telegram
-
-*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-
-*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-
-*   [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。
-
-*   [Kings-en/rmrb-pdf-fetcher](https://github.com/Kings-en/rmrb-pdf-fetcher) - 自动获取并下载每日人民日报完整PDF报纸或文章，可导入iPad笔记软件，仅限学习使用，不得用于商业活动。
-
-*   [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) -  Transcribe and summarize video content using AI. Open-source, multi-platform, and supports multiple languages.
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-## C++
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
-
-*   [iwxyi/Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 【神奇弹幕】哔哩哔哩/抖音直播万能场控机器人，弹幕姬+答谢姬+回复姬+点歌姬+各种小骚操作，目前唯一可编程机器人
-
 ## Go
+
+*   [naomi233/watchducker](https://github.com/naomi233/watchducker) - 一个用 Go 语言编写的 Docker 容器镜像更新检查和自动更新工具
+
+*   [LeoninCS/DevDesk](https://github.com/LeoninCS/DevDesk) - 一个由Go+Vue开发的Web工作台，包含代码分享、待办事项、Markdown编辑器功能，无需登录即可使用，持续更新中...
 
 *   [2dust/sing-box-rules](https://github.com/2dust/sing-box-rules) - sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat
 
@@ -151,6 +102,8 @@
 
 ## miscellaneous
 
+*   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
+
 *   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 
 *   [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) - Delicately-TUICed 0-RTT proxy protocol
@@ -164,6 +117,58 @@
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List \* Updated every 5 minutes \*
+
+## Jinja
+
+*   [node-pulse/playbooks](https://github.com/node-pulse/playbooks) - the registry of self-contained and zero dependency ansible playbooks
+
+## C
+
+*   [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+
+*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
+
+*   [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP to Unicast HTTP stream convertor
+
+## Dart
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
+## Python
+
+*   [zhumengkang/agsb](https://github.com/zhumengkang/agsb) -
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [saitomikuya/office365-manager](https://github.com/saitomikuya/office365-manager) - 这是一个基于 Flask 和 MSAL 的 Web 应用，用于集中管理多个 Microsoft 365/Office 365 租户中的用户、角色和订阅。界面支持中文，具备权限管理、角色分配、订阅管理、组织切换等功能。
+
+*   [Hamster-Prime/Telegram\_Anti-harassment\_two-way\_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) - 一个功能强大且易于部署的 Telegram 双向聊天机器人
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
+
+*   [batianVolyc/telegram-mcp-server](https://github.com/batianVolyc/telegram-mcp-server) - Remote control AI coding assistants (Claude Code/Codex) via Telegram
+
+*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+
+*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
+*   [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。
+
+*   [Kings-en/rmrb-pdf-fetcher](https://github.com/Kings-en/rmrb-pdf-fetcher) - 自动获取并下载每日人民日报完整PDF报纸或文章，可导入iPad笔记软件，仅限学习使用，不得用于商业活动。
+
+*   [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) -  Transcribe and summarize video content using AI. Open-source, multi-platform, and supports multiple languages.
+
+## C++
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
+
+*   [iwxyi/Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 【神奇弹幕】哔哩哔哩/抖音直播万能场控机器人，弹幕姬+答谢姬+回复姬+点歌姬+各种小骚操作，目前唯一可编程机器人
 
 ## Rust
 
@@ -204,8 +209,6 @@
 *   [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
 
 *   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统搭建 domain mail tempmail
-
-*   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
 ## Vue
 
