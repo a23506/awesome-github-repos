@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [EJS](#ejs)
 *   [Perl](#perl)
 *   [Java](#java)
 *   [Shell](#shell)
@@ -24,6 +25,10 @@
 *   [Vim Snippet](#vim-snippet)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
+
+## EJS
+
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 
 ## Perl
 
@@ -212,8 +217,6 @@
 *   [dulikaifazr/Cougar-CLI](https://github.com/dulikaifazr/Cougar-CLI) - Cougar CLI - An AI programming agent for the command line
 
 *   [FilenCloudDienste/filen-webdav](https://github.com/FilenCloudDienste/filen-webdav) - A package to start a WebDAV server for a single or multiple Filen accounts
-
-*   [FilenCloudDienste/filen-cli](https://github.com/FilenCloudDienste/filen-cli) - Filen CLI for Windows, macOS and Linux
 
 ## Python
 
