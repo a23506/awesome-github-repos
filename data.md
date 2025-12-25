@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [Go](#go)
 *   [PHP](#php)
 *   [Vue](#vue)
-*   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [C#](#c)
 *   [Swift](#swift)
@@ -24,6 +24,160 @@
 *   [CSS](#css)
 *   [Vim Snippet](#vim-snippet)
 *   [Svelte](#svelte)
+
+## Go
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+
+*   [yzbtdiy/openlist\_batch](https://github.com/yzbtdiy/openlist_batch) - OpenList批量添加网盘资源
+
+*   [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
+
+*   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+
+*   [jeessy2/backup-x](https://github.com/jeessy2/backup-x) - 带Web界面的数据库/文件备份增强工具. A database/file backup tool with web interfaces
+
+*   [88899/vercel-hugo](https://github.com/88899/vercel-hugo) - Webstack风格，Hugo, 导航站，纯静态，建站，无需数据库，开箱即用
+
+*   [difyz9/ytb2bili](https://github.com/difyz9/ytb2bili) - 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。
+
+*   [naomi233/watchducker](https://github.com/naomi233/watchducker) - 一个用 Go 语言编写的 Docker 容器镜像更新检查和自动更新工具
+
+*   [LeoninCS/DevDesk](https://github.com/LeoninCS/DevDesk) - 一个由Go+Vue开发的Web工作台，包含Markdown编辑器、http接口测试、HTML托管、代码分享、待办事项功能，无需登录即可使用。
+
+*   [2dust/sing-box-rules](https://github.com/2dust/sing-box-rules) - sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat
+
+*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+
+*   [juicity/juicity](https://github.com/juicity/juicity) - juicity is a quic-based proxy protocol implementation.
+
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+
+*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+
+*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+
+*   [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
+
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
+
+*   [nobiyou/wx\_channel](https://github.com/nobiyou/wx_channel) - 微信视频号下载工具
+
+*   [DullJZ/s3-validate](https://github.com/DullJZ/s3-validate) - An Amazon S3 request signature V4 verifier in Golang
+
+*   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
+
+*   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
+
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+
+*   [uhdnow/emby\_ext\_domains](https://github.com/uhdnow/emby_ext_domains) - 一个轻量级的 Go 应用，用于扩展 Emby 媒体服务器的功能。提供了一个 RESTful API 端点，允许客户端通过 Emby Token 验证获取配置的服务器域名列表。
+
+*   [prometheus/influxdb\_exporter](https://github.com/prometheus/influxdb_exporter) - A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption
+
+*   [prometheus/prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
+
+*   [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
+
+*   [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
+
+*   [prometheus/mysqld\_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
+
+*   [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
+
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+
+*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+
+*   [DullJZ/s3-balance](https://github.com/DullJZ/s3-balance) - S3对象存储自动负载均衡，向外暴露统一S3接口
+
+*   [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
+
+*   [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
+
+*   [fengyuanluo/firemailplus](https://github.com/fengyuanluo/firemailplus) - 一个全功能的WEB邮件客户端
+
+## JavaScript
+
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
+
+*   [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+
+*   [princemaple/github-stars](https://github.com/princemaple/github-stars) - 获取你所有的星标仓库，并将它们的 README 文件保存为 Markdown 格式。
+
+*   [jy02739244/iori-nav](https://github.com/jy02739244/iori-nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
+
+*   [fscarmen2/pic-hosting-cluster](https://github.com/fscarmen2/pic-hosting-cluster) -
+
+*   [imgs/mmnote](https://github.com/imgs/mmnote) - 基于Cloudflare Workers实现的Markdown在线笔记
+
+*   [doocs/cose](https://github.com/doocs/cose) - 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
+
+*   [debbide/nav-dashboard](https://github.com/debbide/nav-dashboard) -
+
+*   [constansino/autofree-domain](https://github.com/constansino/autofree-domain) - auto
+
+*   [zixiwangluo/CF-M365-Admin](https://github.com/zixiwangluo/CF-M365-Admin) - 基于 Cloudflare Workers 的 Microsoft 365 用户自助开通与轻量级管理面板。这是一个无服务器（Serverless）的解决方案，用于快速部署 M365 账号分发系统。它包含一个面向用户的自助注册页面，以及一个面向管理员的简易后台，支持用户管理、订阅查询和安全控制。
+
+*   [lx969788249/nodeimage\_clone](https://github.com/lx969788249/nodeimage_clone) - 完美克隆nodeseek的官方图床，nodeimage
+
+*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
+
+*   [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+
+*   [1keji/modern-images](https://github.com/1keji/modern-images) - 现代图床. 一款现代化，安装简单，功能强大的图床程序。支持.avif和.webp格式，支持API上传，支持格式在线转换。
+
+*   [utags/userscripts](https://github.com/utags/userscripts) - Userscripts Collection
+
+*   [zcp1997/telegram-cf-dns-bot](https://github.com/zcp1997/telegram-cf-dns-bot) - A telegram bot can manage your cloudflare domain dns records
+
+*   [Roddy-D/cloudflare-telegrambot](https://github.com/Roddy-D/cloudflare-telegrambot) -
+
+*   [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名
+
+*   [InvertGeek/directlink](https://github.com/InvertGeek/directlink) - 免费文件直链服务（直链网盘），支持文件、图片、视频上传，适合临时文件分享并生成直链。
+
+*   [dajie111/nodeseek-userscript](https://github.com/dajie111/nodeseek-userscript) -
+
+*   [GitHub30/extend-vps-exp](https://github.com/GitHub30/extend-vps-exp) -
+
+*   [bysstudio/by-chrome-app](https://github.com/bysstudio/by-chrome-app) - by-chrome-app 提供 指纹浏览器(fingerprint browser) 多开管理、代理管理、同步器窗口排列等功能，批量操作多个 Chrome 窗口，实现窗口批量打开、排列以及之间的同步操作
+
+*   [SCSHIRKER/ccrbb](https://github.com/SCSHIRKER/ccrbb) - 这个机器人会自动删除 Telegram 群组里所有跨频道的回复消息 \*（前提是它在群组里拥有管理员权限）。 它能区分已关联的频道回复（允许）和外部频道回复（禁止）。
+
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubAPI/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+
+*   [yutian81/domain-check](https://github.com/yutian81/domain-check) - domain-check是基于 Cloudflare Worker 和 Worker KV 构建的域名到期监控仪表盘，支持自动 WHOIS 查询、分组管理、到期提醒、数据导入导出等功能
+
+*   [yutian81/vps-check](https://github.com/yutian81/vps-check) - 基于Cloudflare Workers构建的VPS到期提醒可视化面板，让用户能够一目了然地查看VPS的状态、IP、ASN、国家、城市、注册商、注册日期、年费价格、剩余价值等信息，并可在到期前通过TG机器人向用户推送通知。
+
+*   [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
+
+*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统搭建 domain mail tempmail
+
+*   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+
+*   [huangxd-/danmu\_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
+
+*   [Centralmatrix3/Matrix-io](https://github.com/Centralmatrix3/Matrix-io) - Surge Stash QuantumultX
+
+*   [wangwangit/tts](https://github.com/wangwangit/tts) -  一个基于 Microsoft Edge TTS 的免费在线语音合成服务，支持 20+ 种中文声音，一键将文字转换为自然流畅的语音。
+
+*   [jwangkun/Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。
 
 ## miscellaneous
 
@@ -147,8 +301,6 @@
 
 *   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 *   [Calderic/ChouGen](https://github.com/Calderic/ChouGen) -
@@ -156,92 +308,6 @@
 *   [nanbingxyz/daily-commit-summarizer](https://github.com/nanbingxyz/daily-commit-summarizer) - A GitHub Action that summarizes daily commits with AI and sends the report to your team via configurable webhooks.
 
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-
-*   [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-
-## Go
-
-*   [yzbtdiy/openlist\_batch](https://github.com/yzbtdiy/openlist_batch) - OpenList批量添加网盘资源
-
-*   [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
-
-*   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
-
-*   [onexru/oneimg](https://github.com/onexru/oneimg) - 基于go的图片转webp存储的图床系统
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-
-*   [jeessy2/backup-x](https://github.com/jeessy2/backup-x) - 带Web界面的数据库/文件备份增强工具. A database/file backup tool with web interfaces
-
-*   [88899/vercel-hugo](https://github.com/88899/vercel-hugo) - Webstack风格，Hugo, 导航站，纯静态，建站，无需数据库，开箱即用
-
-*   [difyz9/ytb2bili](https://github.com/difyz9/ytb2bili) - 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。
-
-*   [naomi233/watchducker](https://github.com/naomi233/watchducker) - 一个用 Go 语言编写的 Docker 容器镜像更新检查和自动更新工具
-
-*   [LeoninCS/DevDesk](https://github.com/LeoninCS/DevDesk) - 一个由Go+Vue开发的Web工作台，包含Markdown编辑器、http接口测试、HTML托管、代码分享、待办事项功能，无需登录即可使用。
-
-*   [2dust/sing-box-rules](https://github.com/2dust/sing-box-rules) - sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat
-
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-
-*   [juicity/juicity](https://github.com/juicity/juicity) - juicity is a quic-based proxy protocol implementation.
-
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-
-*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
-*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
-
-*   [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
-
-*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-
-*   [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
-
-*   [nobiyou/wx\_channel](https://github.com/nobiyou/wx_channel) - 微信视频号下载工具
-
-*   [DullJZ/s3-validate](https://github.com/DullJZ/s3-validate) - An Amazon S3 request signature V4 verifier in Golang
-
-*   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
-
-*   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-
-*   [uhdnow/emby\_ext\_domains](https://github.com/uhdnow/emby_ext_domains) - 一个轻量级的 Go 应用，用于扩展 Emby 媒体服务器的功能。提供了一个 RESTful API 端点，允许客户端通过 Emby Token 验证获取配置的服务器域名列表。
-
-*   [prometheus/influxdb\_exporter](https://github.com/prometheus/influxdb_exporter) - A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption
-
-*   [prometheus/prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
-
-*   [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
-
-*   [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
-
-*   [prometheus/mysqld\_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
-
-*   [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
-
-*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-
-*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-
-*   [DullJZ/s3-balance](https://github.com/DullJZ/s3-balance) - S3对象存储自动负载均衡，向外暴露统一S3接口
-
-*   [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
-
-*   [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
-
-*   [fengyuanluo/firemailplus](https://github.com/fengyuanluo/firemailplus) - 一个全功能的WEB邮件客户端
 
 ## PHP
 
@@ -261,6 +327,8 @@
 
 *   [YtMour/TidalCore](https://github.com/YtMour/TidalCore) - 🌊 TidalCore：一款开源、纯净、充满动效的盆底肌健康管理 Web 平台。基于 Vue 3 + Golang (Gin) 构建，支持匿名打卡、交互式训练计时器及社区排行榜。让每一次“潮汐”般的练习都看得见进步。https://tidal.ytmour.baby/
 
+*   [onexru/oneimg](https://github.com/onexru/oneimg) - 基于go的图片转webp存储的图床系统
+
 *   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
 *   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
@@ -270,76 +338,6 @@
 *   [DullJZ/s3-balance-web](https://github.com/DullJZ/s3-balance-web) -
 
 *   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
-
-## JavaScript
-
-*   [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-*   [princemaple/github-stars](https://github.com/princemaple/github-stars) - 获取你所有的星标仓库，并将它们的 README 文件保存为 Markdown 格式。
-
-*   [jy02739244/iori-nav](https://github.com/jy02739244/iori-nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
-
-*   [fscarmen2/pic-hosting-cluster](https://github.com/fscarmen2/pic-hosting-cluster) -
-
-*   [imgs/mmnote](https://github.com/imgs/mmnote) - 基于Cloudflare Workers实现的Markdown在线笔记
-
-*   [doocs/cose](https://github.com/doocs/cose) - 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
-
-*   [debbide/nav-dashboard](https://github.com/debbide/nav-dashboard) -
-
-*   [constansino/autofree-domain](https://github.com/constansino/autofree-domain) - auto
-
-*   [zixiwangluo/CF-M365-Admin](https://github.com/zixiwangluo/CF-M365-Admin) - 基于 Cloudflare Workers 的 Microsoft 365 用户自助开通与轻量级管理面板。这是一个无服务器（Serverless）的解决方案，用于快速部署 M365 账号分发系统。它包含一个面向用户的自助注册页面，以及一个面向管理员的简易后台，支持用户管理、订阅查询和安全控制。
-
-*   [lx969788249/nodeimage\_clone](https://github.com/lx969788249/nodeimage_clone) - 完美克隆nodeseek的官方图床，nodeimage
-
-*   [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
-
-*   [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
-
-*   [1keji/modern-images](https://github.com/1keji/modern-images) - 现代图床. 一款现代化，安装简单，功能强大的图床程序。支持.avif和.webp格式，支持API上传，支持格式在线转换。
-
-*   [utags/userscripts](https://github.com/utags/userscripts) - Userscripts Collection
-
-*   [zcp1997/telegram-cf-dns-bot](https://github.com/zcp1997/telegram-cf-dns-bot) - A telegram bot can manage your cloudflare domain dns records
-
-*   [Roddy-D/cloudflare-telegrambot](https://github.com/Roddy-D/cloudflare-telegrambot) -
-
-*   [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名
-
-*   [InvertGeek/directlink](https://github.com/InvertGeek/directlink) - 免费文件直链服务（直链网盘），支持文件、图片、视频上传，适合临时文件分享并生成直链。
-
-*   [dajie111/nodeseek-userscript](https://github.com/dajie111/nodeseek-userscript) -
-
-*   [GitHub30/extend-vps-exp](https://github.com/GitHub30/extend-vps-exp) -
-
-*   [bysstudio/by-chrome-app](https://github.com/bysstudio/by-chrome-app) - by-chrome-app 提供 指纹浏览器(fingerprint browser) 多开管理、代理管理、同步器窗口排列等功能，批量操作多个 Chrome 窗口，实现窗口批量打开、排列以及之间的同步操作
-
-*   [SCSHIRKER/ccrbb](https://github.com/SCSHIRKER/ccrbb) - 这个机器人会自动删除 Telegram 群组里所有跨频道的回复消息 \*（前提是它在群组里拥有管理员权限）。 它能区分已关联的频道回复（允许）和外部频道回复（禁止）。
-
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubAPI/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
-
-*   [yutian81/domain-check](https://github.com/yutian81/domain-check) - domain-check是基于 Cloudflare Worker 和 Worker KV 构建的域名到期监控仪表盘，支持自动 WHOIS 查询、分组管理、到期提醒、数据导入导出等功能
-
-*   [yutian81/vps-check](https://github.com/yutian81/vps-check) - 基于Cloudflare Workers构建的VPS到期提醒可视化面板，让用户能够一目了然地查看VPS的状态、IP、ASN、国家、城市、注册商、注册日期、年费价格、剩余价值等信息，并可在到期前通过TG机器人向用户推送通知。
-
-*   [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
-
-*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统搭建 domain mail tempmail
-
-*   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
-
-*   [huangxd-/danmu\_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
-
-*   [Centralmatrix3/Matrix-io](https://github.com/Centralmatrix3/Matrix-io) - Surge Stash QuantumultX
-
-*   [wangwangit/tts](https://github.com/wangwangit/tts) -  一个基于 Microsoft Edge TTS 的免费在线语音合成服务，支持 20+ 种中文声音，一键将文字转换为自然流畅的语音。
-
-*   [jwangkun/Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。
-
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 
 ## HTML
 
@@ -404,6 +402,8 @@
 ## Java
 
 *   [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 
