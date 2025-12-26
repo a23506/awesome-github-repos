@@ -417,7 +417,7 @@
 
 *   [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 
-*   [iwxyi/Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 【神奇弹幕】哔哩哔哩/抖音直播万能场控机器人，弹幕姬+答谢姬+回复姬+点歌姬+各种小骚操作，目前唯一可编程机器人
+*   [iwxyi/MagicalDanmaku](https://github.com/iwxyi/MagicalDanmaku) - 【神奇弹幕】哔哩哔哩/抖音直播万能场控机器人，弹幕姬+答谢姬+回复姬+点歌姬+各种小骚操作，目前唯一可编程机器人
 
 *   [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 
