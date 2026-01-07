@@ -38,7 +38,7 @@
 
 *   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。
 
-*   [ooyyh/Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) -
+*   [ooyyh/Cloudflare-Clist](https://github.com/ooyyh/Cloudflare-Clist) - ☁A cloud storage aggregation service deployed on Cloudflare Workers with D1 database support.
 
 *   [ai-tmarks/tmarks](https://github.com/ai-tmarks/tmarks) -
 
@@ -98,7 +98,7 @@
 
 ## JavaScript
 
-*   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - Kiro Account Manager - Smart Kiro token management with one-click switching and quota monitoring
+*   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://vercel-api-lemon-five.vercel.app
 
 *   [woniu336/CFGuard](https://github.com/woniu336/CFGuard) -
 
