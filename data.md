@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
+*   [Kotlin](#kotlin)
 *   [C](#c)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [Go](#go)
 *   [PHP](#php)
-*   [HTML](#html)
 *   [C#](#c-1)
 *   [Swift](#swift)
 *   [Perl](#perl)
@@ -26,13 +26,11 @@
 *   [Vim Snippet](#vim-snippet)
 *   [Svelte](#svelte)
 
-## Kotlin
-
-*   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
-
-*   [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
-
 ## TypeScript
+
+*   [Anarkh-Lee/nginx-flow](https://github.com/Anarkh-Lee/nginx-flow) - 一款功能强大的 Nginx 配置文件可视化编辑工具
+
+*   [harrisonwang/cf-image-cloud](https://github.com/harrisonwang/cf-image-cloud) - 一个基于 Cloudflare Workers、R2 和 KV 的个人图床服务
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
@@ -66,8 +64,6 @@
 
 *   [Gouryella/HFBridge](https://github.com/Gouryella/HFBridge) - HF reverse proxy + dashboard: proxy API/Git, LFS rewrite, real-time stats.
 
-*   [Starry-Sky-World/E3Car](https://github.com/Starry-Sky-World/E3Car) - E3 Sub Car, Base GraphAPI
-
 *   [siiway/urlclash-converter](https://github.com/siiway/urlclash-converter) - Clash <-> Link 订阅转换工具 | 纯本地运行 | 支持多种协议
 
 *   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
@@ -94,9 +90,9 @@
 
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
 ## JavaScript
+
+*   [debbide/GeoFill](https://github.com/debbide/GeoFill) -
 
 *   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://vercel-api-lemon-five.vercel.app
 
@@ -164,7 +160,27 @@
 
 *   [huangxd-/danmu\_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 
+## HTML
+
+*   [afoim/eo\_monitor](https://github.com/afoim/eo_monitor) - 一个公开的，只读的EdgeOne站点流量监控大屏
+
+*   [YoungYannick/KomariBeautify](https://github.com/YoungYannick/KomariBeautify) - 一个用于增强使用PurCarte主题的Komari探针的文件
+
+*   [muzihuaner/prometheus-webhook-feishu](https://github.com/muzihuaner/prometheus-webhook-feishu) - Prometheus 飞书通知
+
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
+
+*   [geeeeeeeek/web\_tool](https://github.com/geeeeeeeek/web_tool) - 一个基于javascript、html和css开发的网站导航应用程序。用于展示各行业常用的网站。A web site navigation application based on javascript, html and css development. Used to display commonly used web sites in various industries.
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [xiaokun567/office365](https://github.com/xiaokun567/office365) - 一个轻量级的 Office 365 订阅状态监控系统，支持自动检测、手动检测和异常通知。
+
+*   [wujunwei928/parse-video](https://github.com/wujunwei928/parse-video) - Golang短视频去水印：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
+
 ## miscellaneous
+
+*   [fengxinzi-mulan/go-wdd](https://github.com/fengxinzi-mulan/go-wdd) - 自建WebDAV对接115网盘，解决网易爆米花的扫盘风控和播放失败Bug。
 
 *   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 
@@ -185,6 +201,12 @@
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List \* Updated every 5 minutes \*
+
+## Kotlin
+
+*   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
+
+*   [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
 
 ## C
 
@@ -273,8 +295,6 @@
 *   [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) -  Transcribe and summarize video content using AI. Open-source, multi-platform, and supports multiple languages.
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [l429609201/misaka\_danmu\_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 dandanplay API 规范。
 
 ## Vue
 
@@ -374,8 +394,6 @@
 
 *   [DullJZ/s3-balance](https://github.com/DullJZ/s3-balance) - S3对象存储自动负载均衡，向外暴露统一S3接口
 
-*   [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
-
 ## PHP
 
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
@@ -387,22 +405,6 @@
 *   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 *   [JanePHPDev/ZuzShortURL](https://github.com/JanePHPDev/ZuzShortURL) - A next-generation short-link SaaS solution built on PHP+PostgreSQL and tailored for entrepreneurial teams, e-commerce platforms, and small and medium-sized enterprises
-
-## HTML
-
-*   [YoungYannick/KomariBeautify](https://github.com/YoungYannick/KomariBeautify) - 一个用于增强使用PurCarte主题的Komari探针的文件
-
-*   [muzihuaner/prometheus-webhook-feishu](https://github.com/muzihuaner/prometheus-webhook-feishu) - Prometheus 飞书通知
-
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
-
-*   [geeeeeeeek/web\_tool](https://github.com/geeeeeeeek/web_tool) - 一个基于javascript、html和css开发的网站导航应用程序。用于展示各行业常用的网站。A web site navigation application based on javascript, html and css development. Used to display commonly used web sites in various industries.
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [xiaokun567/office365](https://github.com/xiaokun567/office365) - 一个轻量级的 Office 365 订阅状态监控系统，支持自动检测、手动检测和异常通知。
-
-*   [wujunwei928/parse-video](https://github.com/wujunwei928/parse-video) - Golang短视频去水印：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 
 ## C\#
 
@@ -435,8 +437,6 @@
 *   [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 
 *   [iwxyi/MagicalDanmaku](https://github.com/iwxyi/MagicalDanmaku) - 本仓库及所有相关项目已永久停止开发、维护和任何形式的分发。
-
-*   [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 
 ## Rust
 
