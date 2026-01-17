@@ -138,7 +138,7 @@
 
 *   [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg) - Support for https://www.gyan.dev/ffmpeg
 
-*   [fengxinzi-mulan/go-wdd](https://github.com/fengxinzi-mulan/go-wdd) - 自建WebDAV对接115网盘，解决网易爆米花的扫盘风控和播放失败Bug，具有115网盘文件管理、webdav、strm生成功能。
+*   [fengxinzi-mulan/go-wdd](https://github.com/fengxinzi-mulan/go-wdd) - 自建WebDAV对接115网盘，解决网易爆米花的扫盘风控和播放失败Bug，具有115网盘文件管理、webdav、strm生成、Emby302功能。
 
 *   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 
@@ -370,7 +370,7 @@
 
 *   [jwangkun/Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。
 
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 
 *   [2211898719/termius-plus](https://github.com/2211898719/termius-plus) - 模仿termius的服务器运维工具
 
@@ -534,7 +534,7 @@
 
 *   [muzihuaner/prometheus-webhook-feishu](https://github.com/muzihuaner/prometheus-webhook-feishu) - Prometheus 飞书通知
 
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 
 *   [geeeeeeeek/web\_tool](https://github.com/geeeeeeeek/web_tool) - 一个基于javascript、html和css开发的网站导航应用程序。用于展示各行业常用的网站。A web site navigation application based on javascript, html and css development. Used to display commonly used web sites in various industries.
 
