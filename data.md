@@ -148,7 +148,7 @@
 
 *   [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [dulikaifazr/Cougar-CLI](https://github.com/dulikaifazr/Cougar-CLI) - Cougar CLI - An AI programming agent for the command line
 
