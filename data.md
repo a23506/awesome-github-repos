@@ -308,7 +308,7 @@
 
 *   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
 
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，不占用存储空间。
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
@@ -328,7 +328,7 @@
 
 *   [debbide/GeoFill](https://github.com/debbide/GeoFill) -
 
-*   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://vercel-api-lemon-five.vercel.app
+*   [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
 
 *   [woniu336/CFGuard](https://github.com/woniu336/CFGuard) -
 
