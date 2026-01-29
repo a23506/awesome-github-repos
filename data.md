@@ -90,7 +90,7 @@
 
 *   [SCSHIRKER/ccrbb](https://github.com/SCSHIRKER/ccrbb) - 这个机器人会自动删除 Telegram 群组里所有跨频道的回复消息 \*（前提是它在群组里拥有管理员权限）。 它能区分已关联的频道回复（允许）和外部频道回复（禁止）。
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
 
 *   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 
