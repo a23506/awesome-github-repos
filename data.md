@@ -3,11 +3,11 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Makefile](#makefile)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [Rust](#rust)
@@ -28,6 +28,10 @@
 *   [Vim Snippet](#vim-snippet)
 
 ## JavaScript
+
+*   [eooce/node-ws](https://github.com/eooce/node-ws) - 基于serverless实现的vless+trojan+shadowsocks+vmess四协议，无内核，node环境通用项目，支持一键安装包：npm i @eooce/nodews
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
 
 *   [linguo2625469/qq-farm-bot](https://github.com/linguo2625469/qq-farm-bot) - 基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。
 
@@ -128,6 +132,46 @@
 *   [xiaolinbaba/madopic](https://github.com/xiaolinbaba/madopic) - Madopic (Markdown to Picture) 精美的 Markdown 转图片工具。让你的知识更有画面感！
 
 *   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+
+## Shell
+
+*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+
+*   [xiangfeidexiaohuo/pve-diy](https://github.com/xiangfeidexiaohuo/pve-diy) - Proxmox VE 7.x~9.x 换源、关掉订阅提示、直通、配置CPU模式一键脚本。
+
+*   [deadash/ikuai-plugins](https://github.com/deadash/ikuai-plugins) -
+
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+
+*   [ciweigg2/foam-introduction](https://github.com/ciweigg2/foam-introduction) - Emby管理系统 代号Foam
+
+*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+
+*   [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+
+*   [orion-tan/me-sub](https://github.com/orion-tan/me-sub) - 。。。
+
+*   [zcluo/reinstall](https://github.com/zcluo/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [uroni/urbackup\_restore\_cd](https://github.com/uroni/urbackup_restore_cd) - Builds the UrBackup Restore ISO which allows full system image restores
+
+*   [shuguangnet/docker\_backup\_script](https://github.com/shuguangnet/docker_backup_script) - 检测docker容器并自动备份挂载卷以及本地挂载目录
+
+*   [everett7623/Nezha-cleaner](https://github.com/everett7623/Nezha-cleaner) - 哪吒探针Agent彻底清理脚本
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
+
+*   [nullbyte-lab/wechat-multi-open](https://github.com/nullbyte-lab/wechat-multi-open) - macOS 微信多开终极解决方案 - 交互式管理工具
+
+*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [faithleysath/fuckit.sh](https://github.com/faithleysath/fuckit.sh) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
+
+*   [ONLYOFFICE/Docker-DocumentServer](https://github.com/ONLYOFFICE/Docker-DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 
 ## miscellaneous
 
@@ -261,12 +305,6 @@
 
 *   [FilenCloudDienste/filen-cli](https://github.com/FilenCloudDienste/filen-cli) - Filen CLI for Windows, macOS and Linux
 
-*   [FilenCloudDienste/filen-sdk-ts](https://github.com/FilenCloudDienste/filen-sdk-ts) - Filen SDK for Node.JS, Browsers and React Native
-
-*   [FilenCloudDienste/filen-mobile](https://github.com/FilenCloudDienste/filen-mobile) - Mobile App for Filen
-
-*   [FilenCloudDienste/filen-desktop](https://github.com/FilenCloudDienste/filen-desktop) - Filen Desktop Client for Windows, macOS and Linux
-
 ## Makefile
 
 *   [saihgupr/GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - A native macOS menu bar app for seamless Google Drive syncing
@@ -378,44 +416,6 @@
 *   [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
 *   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
-
-## Shell
-
-*   [xiangfeidexiaohuo/pve-diy](https://github.com/xiangfeidexiaohuo/pve-diy) - Proxmox VE 7.x~9.x 换源、关掉订阅提示、直通、配置CPU模式一键脚本。
-
-*   [deadash/ikuai-plugins](https://github.com/deadash/ikuai-plugins) -
-
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
-
-*   [ciweigg2/foam-introduction](https://github.com/ciweigg2/foam-introduction) - Emby管理系统 代号Foam
-
-*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
-
-*   [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
-
-*   [orion-tan/me-sub](https://github.com/orion-tan/me-sub) - 。。。
-
-*   [zcluo/reinstall](https://github.com/zcluo/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [uroni/urbackup\_restore\_cd](https://github.com/uroni/urbackup_restore_cd) - Builds the UrBackup Restore ISO which allows full system image restores
-
-*   [shuguangnet/docker\_backup\_script](https://github.com/shuguangnet/docker_backup_script) - 检测docker容器并自动备份挂载卷以及本地挂载目录
-
-*   [everett7623/Nezha-cleaner](https://github.com/everett7623/Nezha-cleaner) - 哪吒探针Agent彻底清理脚本
-
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
-
-*   [nullbyte-lab/wechat-multi-open](https://github.com/nullbyte-lab/wechat-multi-open) - macOS 微信多开终极解决方案 - 交互式管理工具
-
-*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-*   [faithleysath/fuckit.sh](https://github.com/faithleysath/fuckit.sh) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
-
-*   [ONLYOFFICE/Docker-DocumentServer](https://github.com/ONLYOFFICE/Docker-DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 
 ## Python
 
