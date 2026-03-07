@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -9,9 +11,7 @@
 *   [Python](#python)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
 *   [Swift](#swift)
-*   [Vue](#vue)
 *   [Rust](#rust)
 *   [Dart](#dart)
 *   [PHP](#php)
@@ -25,6 +25,46 @@
 *   [Jinja](#jinja)
 *   [CSS](#css)
 *   [Vim Snippet](#vim-snippet)
+
+## Vue
+
+*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+
+*   [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) - PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新
+
+*   [gdy666/LuckyLightPanel](https://github.com/gdy666/LuckyLightPanel) -
+
+*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+
+*   [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [YtMour/TidalCore](https://github.com/YtMour/TidalCore) - 🌊 TidalCore：一款开源、纯净、充满动效的盆底肌健康管理 Web 平台。基于 Vue 3 + Golang (Gin) 构建，支持匿名打卡、交互式训练计时器及社区排行榜。让每一次“潮汐”般的练习都看得见进步。https://tidal.ytmour.baby/
+
+*   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+
+*   [deerwan/nav](https://github.com/deerwan/nav) - 基于Cloudflare Pages构建的书签管理工具
+
+*   [DullJZ/s3-balance-web](https://github.com/DullJZ/s3-balance-web) -
+
+*   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
+
+*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+
+## Java
+
+*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for many programming languages
+
+*   [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) - Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+
+*   [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+
+*   [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 
 ## TypeScript
 
@@ -227,10 +267,6 @@
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 *   [wzn556/STUN-Redirect](https://github.com/wzn556/STUN-Redirect) - 本项目用于保存家庭宽带 ipv4/ipv6 端口，并根据当前网络自动重定向以访问 nas、openwrt、家庭内网服务器等，旨在解决 Lucky STUN 内网穿透端口变化频繁且不规律的问题。
-
-*   [decadefaiz/CF-Server-AutoCheck](https://github.com/decadefaiz/CF-Server-AutoCheck) - 采用Cloudflare的workers的方式，部署服务器监控系统，帮助用户进行服务器到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
-
-*   [decadefaiz/CF-Domain-AutoCheck](https://github.com/decadefaiz/CF-Domain-AutoCheck) - 采用Cloudflare的workers的方式，部署域名监控系统，帮助用户进行域名到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
 
 ## Go
 
@@ -510,16 +546,6 @@
 
 *   [fmz200/global-testflight-link](https://github.com/fmz200/global-testflight-link) - 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links.
 
-## Java
-
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for many programming languages
-
-*   [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) - Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
-
-*   [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-
-*   [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
-
 ## Swift
 
 *   [saihgupr/GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - A native macOS menu bar app for seamless Google Drive syncing
@@ -529,32 +555,6 @@
 *   [FuzzyIdeas/StartupFolder](https://github.com/FuzzyIdeas/StartupFolder) - Run anything at startup by placing it in a special folder
 
 *   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-
-## Vue
-
-*   [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) - PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新
-
-*   [gdy666/LuckyLightPanel](https://github.com/gdy666/LuckyLightPanel) -
-
-*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
-
-*   [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [YtMour/TidalCore](https://github.com/YtMour/TidalCore) - 🌊 TidalCore：一款开源、纯净、充满动效的盆底肌健康管理 Web 平台。基于 Vue 3 + Golang (Gin) 构建，支持匿名打卡、交互式训练计时器及社区排行榜。让每一次“潮汐”般的练习都看得见进步。https://tidal.ytmour.baby/
-
-*   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
-
-*   [deerwan/nav](https://github.com/deerwan/nav) - 基于Cloudflare Pages构建的书签管理工具
-
-*   [DullJZ/s3-balance-web](https://github.com/DullJZ/s3-balance-web) -
-
-*   [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - A desktop application for OpenList
-
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 ## Rust
 
