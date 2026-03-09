@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Twig](#twig)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -25,6 +26,10 @@
 *   [Jinja](#jinja)
 *   [CSS](#css)
 *   [Vim Snippet](#vim-snippet)
+
+## Twig
+
+*   [Hosteroid/domain-monitor](https://github.com/Hosteroid/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
 
 ## Vue
 
@@ -84,7 +89,7 @@
 
 *   [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
-*   [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - OpenSource ngrok alternative.
+*   [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
 
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
@@ -176,7 +181,7 @@
 
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
 
-*   [linguo2625469/qq-farm-bot](https://github.com/linguo2625469/qq-farm-bot) - 基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。
+*   [linguo2625469/qq-farm-bot](https://github.com/linguo2625469/qq-farm-bot) - 【已停止维护 】基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。
 
 *   [zhweji0505/us-address-transcript-generator](https://github.com/zhweji0505/us-address-transcript-generator) - Generate realistic US residential addresses with automatic high school matching and professional academic transcript PDF export.
 
@@ -267,8 +272,6 @@
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 *   [wzn556/STUN-Redirect](https://github.com/wzn556/STUN-Redirect) - 本项目用于保存家庭宽带 ipv4/ipv6 端口，并根据当前网络自动重定向以访问 nas、openwrt、家庭内网服务器等，旨在解决 Lucky STUN 内网穿透端口变化频繁且不规律的问题。
-
-*   [decadefaiz/CF-Server-AutoCheck](https://github.com/decadefaiz/CF-Server-AutoCheck) - 采用Cloudflare的workers的方式，部署服务器监控系统，帮助用户进行服务器到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
 
 ## Go
 
