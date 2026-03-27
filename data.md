@@ -29,6 +29,8 @@
 
 ## Python
 
+*   [XddXss888/grok-batch-register-tool-v2](https://github.com/XddXss888/grok-batch-register-tool-v2) - Grok 批量注册机与 Cloudflare 邮箱联动工具。
+
 *   [zihenghe04/CCDash](https://github.com/zihenghe04/CCDash) - Open-source unified usage dashboard for Claude — track tokens, quota, costs across Claude Code, claude.ai & API in one panel. 开源 Claude 全平台用量监控面板，聚合 Claude Code / claude.ai / API 数据，适用于 Pro/Max 订阅用户与开发者。https://dyp23yngrtumg.ok.kimi.link
 
 *   [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent
@@ -115,7 +117,7 @@
 
 ## JavaScript
 
-*   [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) - gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP.
+*   [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) - gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用
 
 *   [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 带长期记忆的 AI 面试教练，持续追踪薄弱点与掌握度，自动生成更精准的技术面试题。
 
@@ -656,8 +658,6 @@
 *   [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 
 *   [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
-
-*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 
 ## Elixir
 
