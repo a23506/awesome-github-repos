@@ -29,7 +29,7 @@
 
 ## TypeScript
 
-*   [Zoroaaa/OSSshelf](https://github.com/Zoroaaa/OSSshelf) - 基于 Cloudflare 部署的多厂商 OSS 文件管理系统 统一管理主流对象存储 · 支持 WebDAV 协议 · 预签名直传 · 大文件分片上传 · 安全分享 · 文件预览
+*   [Zoroaaa/OSSshelf](https://github.com/Zoroaaa/OSSshelf) - 基于 Cloudflare 部署的多厂商 OSS 文件管理系统。支持：文件上传下载 · 在线预览 · 文件分享 · 多存储支持 · WebDAV 协议 · 权限管理 · 开放 API
 
 *   [Zoroaaa/it-toolbox](https://github.com/Zoroaaa/it-toolbox) - IT Toolbox 是一款基于 Cloudflare Pages Functions 全栈部署的面向开发者的在线工具箱，集成 146 高频开发工具，覆盖格式化、编码解码、加密哈希、网络查询、文本处理、颜色设计等多个类别。
 
