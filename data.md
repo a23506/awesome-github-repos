@@ -197,7 +197,7 @@
 
 *   [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) - gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶
 
-*   [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 从刷题到实战的 AI 技术面试陪练系统，带长期记忆，支持专项训练、简历面试、JD 备面、实时 Copilot 辅助与录音复盘。
+*   [AnnaSuSu/InterviewLoop](https://github.com/AnnaSuSu/InterviewLoop) - 从刷题到实战的 AI 技术面试陪练系统，带长期记忆，支持专项训练、简历面试、JD 备面、实时 Copilot 辅助与录音复盘。
 
 *   [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 
