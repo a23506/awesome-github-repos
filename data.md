@@ -30,6 +30,8 @@
 
 ## TypeScript
 
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
 *   [voidcraft-dev/memory-forge-rs](https://github.com/voidcraft-dev/memory-forge-rs) - Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆
 
 *   [chaogei/Kiro-account-manager](https://github.com/chaogei/Kiro-account-manager) -
@@ -294,8 +296,6 @@
 
 *   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
-*   [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
-
 ## JavaScript
 
 *   [cmliu/epeius](https://github.com/cmliu/epeius) - 在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
@@ -346,7 +346,7 @@
 
 *   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
 
-*   [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+*   [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. Tired of Gemini Watermark? GPT Image 2 ↓ / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法，对gemini水印疲了？推荐GPT-Image-2 ↓
 
 *   [princemaple/github-stars](https://github.com/princemaple/github-stars) - 获取你所有的星标仓库，并将它们的 README 文件保存为 Markdown 格式。
 
