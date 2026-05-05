@@ -18,13 +18,14 @@
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Swift](#swift)
-*   [Dart](#dart)
+*   [GLSL](#glsl)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
 *   [C++](#c-2)
 *   [Elixir](#elixir)
 *   [Jinja](#jinja)
+*   [Dart](#dart)
 *   [CSS](#css)
 *   [Vim Snippet](#vim-snippet)
 
@@ -392,7 +393,7 @@
 
 *   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 
-*   [batianVolyc/telegram-mcp-server](https://github.com/batianVolyc/telegram-mcp-server) - Remote control AI coding assistants (Claude Code/Codex) via Telegram
+*   [archetyx/telegram-mcp-server](https://github.com/archetyx/telegram-mcp-server) - Remote control AI coding assistants (Claude Code/Codex) via Telegram
 
 *   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
@@ -814,11 +815,9 @@
 
 *   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 
-## Dart
+## GLSL
 
 *   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
 ## Svelte
 
@@ -865,6 +864,10 @@
 ## Jinja
 
 *   [node-pulse/playbooks](https://github.com/node-pulse/playbooks) - the registry of self-contained and zero dependency ansible playbooks
+
+## Dart
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
 ## CSS
 
