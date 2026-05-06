@@ -18,7 +18,6 @@
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Swift](#swift)
-*   [GLSL](#glsl)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
@@ -209,6 +208,8 @@
 
 *   [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
+*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
+
 *   [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
 
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
@@ -337,7 +338,7 @@
 
 *   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
-*   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - 行影集——你的私人AI智能相册
+*   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - TrailSnap (行影集) | AI-Powered open-source photo album for travel & life memories.（AI赋能的开源相册工具，珍藏旅行与生活点滴）
 
 *   [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 
@@ -814,10 +815,6 @@
 *   [FuzzyIdeas/StartupFolder](https://github.com/FuzzyIdeas/StartupFolder) - Run anything at startup by placing it in a special folder
 
 *   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-
-## GLSL
-
-*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
 
 ## Svelte
 
