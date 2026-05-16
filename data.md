@@ -82,8 +82,6 @@
 
 *   [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
-*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
-
 *   [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
 
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
@@ -446,7 +444,7 @@
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [l429609201/misaka\_danmu\_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 dandanplay API 规范。
+*   [l429609201/misaka\_danmu\_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
 
 *   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
 
@@ -619,6 +617,8 @@
 *   [Lzsh1/qq-farm-bot](https://github.com/Lzsh1/qq-farm-bot) -
 
 *   [QianChenJun/qq-farm-bot](https://github.com/QianChenJun/qq-farm-bot) - 基于 Electron + Vue 3 的 QQ/微信经典农场小程序自动化桌面应用。通过分析小程序 WebSocket 通信协议（ProtocolBuffers），实现全自动农场管理，支持多种植策略、好友互动、任务系统等功能。
+
+*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
 
 *   [kaedei/dandanplay](https://github.com/kaedei/dandanplay) - 弹弹play
 
