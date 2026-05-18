@@ -126,7 +126,7 @@
 
 *   [siiway/urlclash-converter](https://github.com/siiway/urlclash-converter) - Clash <-> Link 订阅转换工具 | 纯本地运行 | 支持多种协议
 
-*   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
+*   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI Powered Email Aggregation  Client | AI识别的邮件聚合客户端
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
