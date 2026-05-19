@@ -82,8 +82,6 @@
 
 *   [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
-*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
-
 *   [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
 
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
@@ -619,6 +617,8 @@
 *   [Lzsh1/qq-farm-bot](https://github.com/Lzsh1/qq-farm-bot) -
 
 *   [QianChenJun/qq-farm-bot](https://github.com/QianChenJun/qq-farm-bot) - 基于 Electron + Vue 3 的 QQ/微信经典农场小程序自动化桌面应用。通过分析小程序 WebSocket 通信协议（ProtocolBuffers），实现全自动农场管理，支持多种植策略、好友互动、任务系统等功能。
+
+*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
 
 *   [kaedei/dandanplay](https://github.com/kaedei/dandanplay) - 弹弹play
 
