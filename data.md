@@ -18,13 +18,13 @@
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Swift](#swift)
+*   [Dart](#dart)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
 *   [C++](#c-2)
 *   [Elixir](#elixir)
 *   [Jinja](#jinja)
-*   [Dart](#dart)
 *   [CSS](#css)
 *   [Vim Snippet](#vim-snippet)
 
@@ -618,8 +618,6 @@
 
 *   [QianChenJun/qq-farm-bot](https://github.com/QianChenJun/qq-farm-bot) - 基于 Electron + Vue 3 的 QQ/微信经典农场小程序自动化桌面应用。通过分析小程序 WebSocket 通信协议（ProtocolBuffers），实现全自动农场管理，支持多种植策略、好友互动、任务系统等功能。
 
-*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
-
 *   [kaedei/dandanplay](https://github.com/kaedei/dandanplay) - 弹弹play
 
 *   [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
@@ -816,6 +814,12 @@
 
 *   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 
+## Dart
+
+*   [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) - 一个开源的播放器
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
 ## Svelte
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -861,10 +865,6 @@
 ## Jinja
 
 *   [node-pulse/playbooks](https://github.com/node-pulse/playbooks) - the registry of self-contained and zero dependency ansible playbooks
-
-## Dart
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
 ## CSS
 
