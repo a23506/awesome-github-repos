@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Java](#java)
 *   [Go](#go)
@@ -20,13 +21,22 @@
 *   [Swift](#swift)
 *   [Dart](#dart)
 *   [Svelte](#svelte)
-*   [Kotlin](#kotlin)
 *   [Perl](#perl)
 *   [C++](#c-2)
 *   [Elixir](#elixir)
 *   [Jinja](#jinja)
 *   [CSS](#css)
 *   [Vim Snippet](#vim-snippet)
+
+## Kotlin
+
+*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+
+*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+
+*   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
+
+*   [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
 
 ## Shell
 
@@ -490,8 +500,6 @@
 
 *   [FilenCloudDienste/filen-cli](https://github.com/FilenCloudDienste/filen-cli) - Filen CLI for Windows, macOS and Linux
 
-*   [FilenCloudDienste/filen-sdk-ts](https://github.com/FilenCloudDienste/filen-sdk-ts) - Filen SDK for Node.JS, Browsers and React Native
-
 ## Rust
 
 *   [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
@@ -827,14 +835,6 @@
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 *   [jlvihv/R2Uploader](https://github.com/jlvihv/R2Uploader) - 易用的文件上传工具，专为多文件和大文件处理而优化，可以将文件轻松上传到 Cloudflare R2 存储。
-
-## Kotlin
-
-*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-
-*   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
-
-*   [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
 
 ## Perl
 
