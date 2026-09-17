@@ -14,20 +14,21 @@ if (!GITHUB_NAME) {
   process.exit(1);
 }
 
-const API_URL = "https://api.github.com/user/starred?per_page=100";
+const API_HEADERS = {
+  Authorization: `Bearer ${API_TOKEN}`,
+  Accept: "application/vnd.github+json",
+  "X-GitHub-Api-Version": "2022-11-28",
+  "User-Agent": "awesome-github-repos"
+};
 
 async function githubRequest(url) {
   const response = await fetch(url, {
-    headers: {
-      Authorization: `Bearer ${API_TOKEN}`,
-      Accept: "application/vnd.github+json",
-      "X-GitHub-Api-Version": "2022-11-28",
-      "User-Agent": "awesome-github-repos"
-    }
+    headers: API_HEADERS
   });
 
   if (!response.ok) {
     const text = await response.text();
+
     throw new Error(
       `GitHub API error ${response.status}: ${text}`
     );
@@ -39,8 +40,12 @@ async function githubRequest(url) {
   };
 }
 
+/**
+ * 获取当前 Token 所属账号的全部 Starred repositories
+ */
 async function getAllStarredRepositories() {
   const repositories = [];
+
   let page = 1;
 
   while (true) {
@@ -57,6 +62,10 @@ async function getAllStarredRepositories() {
 
     repositories.push(...data);
 
+    console.log(
+      `Page ${page}: ${data.length} repositories`
+    );
+
     if (data.length < 100) {
       break;
     }
@@ -67,11 +76,20 @@ async function getAllStarredRepositories() {
   return repositories;
 }
 
+/**
+ * 获取仓库语言
+ */
 function getLanguage(repo) {
-  return repo.language || "miscellaneous";
+  return repo.language || "Other";
 }
 
-function sortRepositories(repositories) {
+/**
+ * 将仓库按照语言分组
+ *
+ * 保持 GitHub API 返回的顺序。
+ * 这样 Recently 分类可以继续按照 Star 顺序使用。
+ */
+function groupRepositoriesByLanguage(repositories) {
   const groups = {};
 
   for (const repo of repositories) {
@@ -84,30 +102,46 @@ function sortRepositories(repositories) {
     groups[language].push(repo);
   }
 
-  const sortedGroups = Object.entries(groups)
-    .sort(([a], [b]) => a.localeCompare(b))
-    .map(([language, repos]) => {
-      repos.sort((a, b) =>
-        a.full_name.localeCompare(b.full_name)
-      );
-
-      return [language, repos];
-    });
-
-  return sortedGroups;
+  return groups;
 }
 
-function escapeMarkdown(text) {
-  if (!text) {
+/**
+ * 清理 description
+ */
+function cleanDescription(description) {
+  if (!description) {
     return "";
-
   }
 
-  return String(text)
+  return String(description)
     .replace(/\r?\n/g, " ")
     .trim();
 }
 
+/**
+ * 生成 data.json
+ *
+ * 格式：
+ *
+ * {
+ *   "Python": [
+ *     {...},
+ *     {...}
+ *   ],
+ *   "JavaScript": [
+ *     {...}
+ *   ]
+ * }
+ */
+function generateJson(groups) {
+  return JSON.stringify(groups, null, 2) + "\n";
+}
+
+/**
+ * 生成 data.md
+ *
+ * 保持原来的 README.ejs 风格。
+ */
 function generateMarkdown(groups) {
   let output = "";
 
@@ -115,17 +149,11 @@ function generateMarkdown(groups) {
 
   output += "## Table of Contents\n\n";
 
-  for (const [language] of groups) {
-    output += `  * ${language}\n`;
-  }
-
-  output += "\n";
-
-  for (const [language, repositories] of groups) {
+  for (const language of Object.keys(groups)) {
     output += `## ${language}\n\n`;
 
-    for (const repo of repositories) {
-      const description = escapeMarkdown(repo.description);
+    for (const repo of groups[language]) {
+      const description = cleanDescription(repo.description);
 
       output += `- [${repo.full_name}](${repo.html_url})`;
 
@@ -142,38 +170,92 @@ function generateMarkdown(groups) {
   return output;
 }
 
+/**
+ * 主程序
+ */
 async function main() {
-  console.log("Starting awesome list generation...");
+  console.log("========================================");
+  console.log("Awesome GitHub Repos Generator");
+  console.log("========================================");
 
-  const repositories = await getAllStarredRepositories();
+  console.log(`GitHub account: ${GITHUB_NAME}`);
+
+  const repositories =
+    await getAllStarredRepositories();
+
+  console.log("");
+  console.log(
+    `Total starred repositories: ${repositories.length}`
+  );
+
+  if (repositories.length === 0) {
+    throw new Error(
+      "No starred repositories were returned. " +
+      "Check API_TOKEN permissions."
+    );
+  }
+
+  const groups =
+    groupRepositoriesByLanguage(repositories);
+
+  const languages =
+    Object.keys(groups);
 
   console.log(
-    `Found ${repositories.length} starred repositories.`
+    `Languages/categories: ${languages.length}`
   );
 
-  const groups = sortRepositories(repositories);
+  console.log("");
+  console.log("Repository statistics:");
 
-  console.log(
-    `Found ${groups.length} languages/categories.`
-  );
+  for (const language of languages) {
+    console.log(
+      `  ${language}: ${groups[language].length}`
+    );
+  }
 
-  const markdown = generateMarkdown(groups);
+  /**
+   * 生成 data.json
+   */
+  const jsonContent =
+    generateJson(groups);
 
-  const outputPath = path.resolve(
-    process.cwd(),
-    "data.md"
-  );
+  const jsonPath =
+    path.resolve(process.cwd(), "data.json");
 
   fs.writeFileSync(
-    outputPath,
-    markdown,
+    jsonPath,
+    jsonContent,
     "utf8"
   );
 
-  console.log(`Generated: ${outputPath}`);
+  console.log("");
+  console.log(`Generated: ${jsonPath}`);
+
+  /**
+   * 生成 data.md
+   */
+  const markdownContent =
+    generateMarkdown(groups);
+
+  const markdownPath =
+    path.resolve(process.cwd(), "data.md");
+
+  fs.writeFileSync(
+    markdownPath,
+    markdownContent,
+    "utf8"
+  );
+
+  console.log(`Generated: ${markdownPath}`);
+
+  console.log("");
+  console.log("Generation completed successfully.");
 }
 
-main().catch((error) => {
+main().catch(error => {
+  console.error("");
+  console.error("Generation failed:");
   console.error(error);
   process.exit(1);
 });
