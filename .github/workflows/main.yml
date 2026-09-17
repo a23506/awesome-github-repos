@@ -1,9 +1,9 @@
 name: Update awesome list
 
-on: 
+on:
   workflow_dispatch:
   schedule:
-    - cron: '00 00 */1 * *'
+    - cron: '00 00 * * *'
 
 permissions:
   contents: write
@@ -11,13 +11,33 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Awesome generator
-        uses: simonecorsi/mawesome@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          template-path: "template/README.ejs"
-          output-filename: "data.md"
-          api-token: ${{ secrets.API_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
-          github-name: ${{ github.repository_owner }}
+          node-version: 20
+
+      - name: Generate awesome list
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+          GITHUB_NAME: ${{ github.repository_owner }}
+          GITHUB_EMAIL: ${{ secrets.USER_EMAIL }}
+        run: node scripts/generate-awesome.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "${GITHUB_NAME:-github-actions[bot]}"
+          git config user.email "${GITHUB_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+
+          git add data.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update awesome list"
+            git push
+          fi
