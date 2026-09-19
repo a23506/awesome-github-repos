@@ -1,6 +1,95 @@
 # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/a23506) [![Awesome](https://badgen.net/static/GitHub/Repos/blue)](https://github.com/a23506)
 ## Table of Contents
 
+## Python
+
+- [assast/outlookEmail](https://github.com/assast/outlookEmail) - outlookEmail 支持 Outlook/Hotmail、Gmail、QQ、163、126、Yahoo、阿里邮箱以及自定义 IMAP 邮箱，同时集成 GPTMail、DuckMail、Cloudflare Temp Email 多提供商临时邮箱能力
+- [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) - A PowerDNS web interface with advanced features
+- [siknet/FreePEP](https://github.com/siknet/FreePEP) - 人教社电子教材下载器 v1.2
+- [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
+- [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) - Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
+- [kingenbomb/Nodes](https://github.com/kingenbomb/Nodes) - 节点注册机
+- [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
+- [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
+- [ToolDelta-Basic/ToolDelta](https://github.com/ToolDelta-Basic/ToolDelta) - 为网易《我的世界：中国版》特制的基岩版租赁服组件加载器
+- [18534516725/llm-api-setup-guides](https://github.com/18534516725/llm-api-setup-guides) - 88篇中文 AI API中转站与工具配置教程：Codex API、Claude Code API、OpenAI-compatible API、Base URL、Cursor、Cherry Studio、计费验证与错误排查。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
+- [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
+- [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
+- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+- [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) - Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)
+- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
+- [akihitohyh/chatgpt-register-sub2api](https://github.com/akihitohyh/chatgpt-register-sub2api)
+- [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+- [shenping1200/GCP-Manager-V3.4](https://github.com/shenping1200/GCP-Manager-V3.4) - GCP 批量管理工具
+- [JFGAtlas/aethergate-pro](https://github.com/JFGAtlas/aethergate-pro)
+- [baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate) - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
+- [joshpatten/PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client
+- [GongyiChuren/tg-watchbot](https://github.com/GongyiChuren/tg-watchbot) - Tg-Watchbot：Telegram 双向对话 Bot + 网页关键词推送 + 可视化面板
+- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
+- [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
+- [ClearProxy/checked-proxy-list](https://github.com/ClearProxy/checked-proxy-list) - A list of checked and verified proxies (HTTP, HTTPS, SOCKS4, SOCKS5) updated automatically every 5 minutes. (GEO, Anonimity, ISP infos) Checked to Google, Discord, TikTok, Instagram,, X, Reddit
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+- [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [XddXss888/grok-batch-register-tool-v2](https://github.com/XddXss888/grok-batch-register-tool-v2) - Grok 批量注册机与 Cloudflare 邮箱联动工具。
+- [zihenghe04/CCDash](https://github.com/zihenghe04/CCDash) - Open-source unified usage dashboard for Claude — track tokens, quota, costs across Claude Code, claude.ai & API in one panel. 开源 Claude 全平台用量监控面板，聚合 Claude Code / claude.ai / API 数据，适用于 Pro/Max 订阅用户与开发者。https://dyp23yngrtumg.ok.kimi.link
+- [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - TrailSnap (行影集) | AI-Powered open-source photo album for travel & life memories.（AI赋能的开源相册工具，珍藏旅行与生活点滴）
+- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
+- [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
+- [MEILOI/VPS_BOT_X](https://github.com/MEILOI/VPS_BOT_X)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing. | 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。【QQ交流群：115069513】
+- [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
+- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
+- [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
+- [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
+- [elunez/azure-manager](https://github.com/elunez/azure-manager) - Azure 第三方管理面板，支持多账号，支持开机、关机、更换IP等操作，操作前需提取 API 参数，详细说明请阅读文档
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
+- [zhumengkang/agsb](https://github.com/zhumengkang/agsb)
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+- [saitomikuya/office365-manager](https://github.com/saitomikuya/office365-manager) - 这是一个基于 Flask 和 MSAL 的 Web 应用，用于集中管理多个 Microsoft 365/Office 365 租户中的用户、角色和订阅。界面支持中文，具备权限管理、角色分配、订阅管理、组织切换等功能。
+- [Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) - 一个功能强大且易于部署的 Telegram 双向聊天机器人
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
+- [archetyx/telegram-mcp-server](https://github.com/archetyx/telegram-mcp-server) - Remote control AI coding assistants (Claude Code/Codex) via Telegram
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
+- [Kings-en/rmrb-pdf-fetcher](https://github.com/Kings-en/rmrb-pdf-fetcher) - 自动获取并下载每日人民日报完整PDF报纸或文章，可导入iPad笔记软件，仅限学习使用，不得用于商业活动。
+- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages.
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [l429609201/misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
+- [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
+- [s-hamann/desec-dns](https://github.com/s-hamann/desec-dns) - A simple deSEC.io API client
+- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...
+- [SJJ-dot/MySubConvert](https://github.com/SJJ-dot/MySubConvert)
+- [SideCloudGroup/BetterForward](https://github.com/SideCloudGroup/BetterForward) - Designed for better message forwarding in Telegram.
+- [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+- [podcctv/vps-value-calculator](https://github.com/podcctv/vps-value-calculator) - Another VPS value calculation
+- [desec-io/desec-stack](https://github.com/desec-io/desec-stack) - Backbone of the deSEC Free Secure DNS Hosting Service
+- [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius 汉化
+- [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection.
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+- [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
+
 ## C
 
 - [tavrez/openssh-sk-winhello](https://github.com/tavrez/openssh-sk-winhello) - A helper for OpenSSH to interact with FIDO2 and U2F security keys through native Windows Hello API
@@ -31,7 +120,7 @@
 - [Smile-QWQ/SubTracker](https://github.com/Smile-QWQ/SubTracker) - A modern self-hosted subscription manager with flexible reminder rules, budgeting and analytics, AI-assisted capture and summaries, backup and migration, and multi-currency support.
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 - [mogumc/KinhWebEO](https://github.com/mogumc/KinhWebEO) - 基于 EdgeOne Pages 重构的 Serverless 版 KinhWeb 原则上兼容所有支持 Gin 的 Serverless 平台
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
+- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [chaogei/Kiro-account-manager](https://github.com/chaogei/Kiro-account-manager)
@@ -220,7 +309,7 @@
 - [kejilion/KPanel](https://github.com/kejilion/KPanel) - 与 kejilion.sh 双向互通的现代 Linux 服务器管理面板
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [msdsj/grok-account-manager-main](https://github.com/msdsj/grok-account-manager-main) - grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 - [xiaozhou26/icloud-hme](https://github.com/xiaozhou26/icloud-hme)
 - [HEXUXIU/M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) - Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
@@ -366,94 +455,6 @@
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
-
-## Python
-
-- [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) - A PowerDNS web interface with advanced features
-- [siknet/FreePEP](https://github.com/siknet/FreePEP) - 人教社电子教材下载器 v1.2
-- [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
-- [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) - Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
-- [kingenbomb/Nodes](https://github.com/kingenbomb/Nodes) - 节点注册机
-- [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
-- [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
-- [ToolDelta-Basic/ToolDelta](https://github.com/ToolDelta-Basic/ToolDelta) - 为网易《我的世界：中国版》特制的基岩版租赁服组件加载器
-- [18534516725/llm-api-setup-guides](https://github.com/18534516725/llm-api-setup-guides) - 88篇中文 AI API中转站与工具配置教程：Codex API、Claude Code API、OpenAI-compatible API、Base URL、Cursor、Cherry Studio、计费验证与错误排查。
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
-- [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
-- [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
-- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
-- [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) - Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)
-- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
-- [akihitohyh/chatgpt-register-sub2api](https://github.com/akihitohyh/chatgpt-register-sub2api)
-- [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-- [shenping1200/GCP-Manager-V3.4](https://github.com/shenping1200/GCP-Manager-V3.4) - GCP 批量管理工具
-- [JFGAtlas/aethergate-pro](https://github.com/JFGAtlas/aethergate-pro)
-- [baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate) - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
-- [joshpatten/PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client
-- [GongyiChuren/tg-watchbot](https://github.com/GongyiChuren/tg-watchbot) - Tg-Watchbot：Telegram 双向对话 Bot + 网页关键词推送 + 可视化面板
-- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
-- [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
-- [ClearProxy/checked-proxy-list](https://github.com/ClearProxy/checked-proxy-list) - A list of checked and verified proxies (HTTP, HTTPS, SOCKS4, SOCKS5) updated automatically every 5 minutes. (GEO, Anonimity, ISP infos) Checked to Google, Discord, TikTok, Instagram,, X, Reddit
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-- [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [XddXss888/grok-batch-register-tool-v2](https://github.com/XddXss888/grok-batch-register-tool-v2) - Grok 批量注册机与 Cloudflare 邮箱联动工具。
-- [zihenghe04/CCDash](https://github.com/zihenghe04/CCDash) - Open-source unified usage dashboard for Claude — track tokens, quota, costs across Claude Code, claude.ai & API in one panel. 开源 Claude 全平台用量监控面板，聚合 Claude Code / claude.ai / API 数据，适用于 Pro/Max 订阅用户与开发者。https://dyp23yngrtumg.ok.kimi.link
-- [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - TrailSnap (行影集) | AI-Powered open-source photo album for travel & life memories.（AI赋能的开源相册工具，珍藏旅行与生活点滴）
-- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
-- [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
-- [MEILOI/VPS_BOT_X](https://github.com/MEILOI/VPS_BOT_X)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
-- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-- [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing. | 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。【QQ交流群：115069513】
-- [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
-- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
-- [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
-- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
-- [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
-- [elunez/azure-manager](https://github.com/elunez/azure-manager) - Azure 第三方管理面板，支持多账号，支持开机、关机、更换IP等操作，操作前需提取 API 参数，详细说明请阅读文档
-- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
-- [zhumengkang/agsb](https://github.com/zhumengkang/agsb)
-- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-- [saitomikuya/office365-manager](https://github.com/saitomikuya/office365-manager) - 这是一个基于 Flask 和 MSAL 的 Web 应用，用于集中管理多个 Microsoft 365/Office 365 租户中的用户、角色和订阅。界面支持中文，具备权限管理、角色分配、订阅管理、组织切换等功能。
-- [Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) - 一个功能强大且易于部署的 Telegram 双向聊天机器人
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
-- [archetyx/telegram-mcp-server](https://github.com/archetyx/telegram-mcp-server) - Remote control AI coding assistants (Claude Code/Codex) via Telegram
-- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
-- [Kings-en/rmrb-pdf-fetcher](https://github.com/Kings-en/rmrb-pdf-fetcher) - 自动获取并下载每日人民日报完整PDF报纸或文章，可导入iPad笔记软件，仅限学习使用，不得用于商业活动。
-- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages.
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [l429609201/misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
-- [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
-- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
-- [s-hamann/desec-dns](https://github.com/s-hamann/desec-dns) - A simple deSEC.io API client
-- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...
-- [SJJ-dot/MySubConvert](https://github.com/SJJ-dot/MySubConvert)
-- [SideCloudGroup/BetterForward](https://github.com/SideCloudGroup/BetterForward) - Designed for better message forwarding in Telegram.
-- [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-- [podcctv/vps-value-calculator](https://github.com/podcctv/vps-value-calculator) - Another VPS value calculation
-- [desec-io/desec-stack](https://github.com/desec-io/desec-stack) - Backbone of the deSEC Free Secure DNS Hosting Service
-- [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius 汉化
-- [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
-- [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 
 ## Kotlin
 
