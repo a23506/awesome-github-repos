@@ -173,7 +173,6 @@
 - [gdy666/LuckyLightPanel](https://github.com/gdy666/LuckyLightPanel)
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
 - [YtMour/TidalCore](https://github.com/YtMour/TidalCore) - 🌊 TidalCore：一款开源、纯净、充满动效的盆底肌健康管理 Web 平台。基于 Vue 3 + Golang (Gin) 构建，支持匿名打卡、交互式训练计时器及社区排行榜。让每一次“潮汐”般的练习都看得见进步。https://tidal.ytmour.baby/
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 - [deerwan/nav](https://github.com/deerwan/nav) - 基于Cloudflare Pages构建的书签管理工具
 - [DullJZ/s3-balance-web](https://github.com/DullJZ/s3-balance-web)
@@ -205,6 +204,7 @@
 - [Memoir-Studio/Memoir](https://github.com/Memoir-Studio/Memoir) - A quiet desktop notebook.
 - [wisemapping/wisemapping-frontend](https://github.com/wisemapping/wisemapping-frontend)
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.
 - [34892002/edgeKey](https://github.com/34892002/edgeKey) - 完全开源的发卡系统，一键部署到 Cloudflare Workers。| A Vike-powered full-stack digital shop, one-click deploy to Cloudflare Workers.
 - [Zippland/perler-beads](https://github.com/Zippland/perler-beads) - 拼豆底稿生成器 (Perler Beads Generator)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
@@ -228,7 +228,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - [romgX/openrelay](https://github.com/romgX/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
 - [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
 - [igeekshare/geekshareArchive](https://github.com/igeekshare/geekshareArchive) - Self-hosted Telegram channel archive powered by Next.js, Cloudflare Workers, D1, and R2.
 - [luckjiawei/podux](https://github.com/luckjiawei/podux) - Podux is a modern frpc management platform built on PocketBase and React, providing a visual interface to manage intranet penetration services.
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
@@ -254,6 +254,7 @@
 - [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
 - [NekroAI/nekro-endpoint](https://github.com/NekroAI/nekro-endpoint)
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
 - [aabacada/CloudNav-abcd](https://github.com/aabacada/CloudNav-abcd) - 【abcd修改版-个人用】托管在cloudflare上的轻量化导航，可以同步谷歌书签
@@ -291,7 +292,6 @@
 - [almus2zhang/gotlucky](https://github.com/almus2zhang/gotlucky)
 - [wisemapping/wisemapping-desktop](https://github.com/wisemapping/wisemapping-desktop) - WiseMapping version in Desktop for local installation.
 - [Hidashimora/free-vpn-anti-rkn](https://github.com/Hidashimora/free-vpn-anti-rkn) - Бесплатные VPN-конфиги без лагов 🚀
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [tjsky/TabulaBili](https://github.com/tjsky/TabulaBili) - 通过减少基于账号登录态和浏览历史的个性化推荐，让B站首页内容变得更泛化、更随机、更像公共热门流。
 - [Caoyg877/baby-grow](https://github.com/Caoyg877/baby-grow) - 一个简洁、轻量的宝宝成长数据记录与可视化应用，支持记录身高、体重、头围等生长指标，并可关联照片/视频，形成完整的成长档案。
