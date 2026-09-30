@@ -1,6 +1,16 @@
 # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/a23506) [![Awesome](https://badgen.net/static/GitHub/Repos/blue)](https://github.com/a23506)
 ## Table of Contents
 
+## Kotlin
+
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
+- [nodeloc/nodeloc-android](https://github.com/nodeloc/nodeloc-android) - Native Android client for nodeloc.com, built with Jetpack Compose.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
+- [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 自动打卡（无人值守方案，非目标应用数据修改方案！）
+
 ## Python
 
 - [lza6/Aggregate-to-2api](https://github.com/lza6/Aggregate-to-2api) - 完美各种AI平台的2API，支持服务器部署，支持高并发打死上游，交流更新频道：https://t.me/Aggregate2api
@@ -152,15 +162,6 @@
 - [spongebob888/shadowquic](https://github.com/spongebob888/shadowquic) - A 0-RTT QUIC Proxy with SNI camouflage
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
 - [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
-
-## Kotlin
-
-- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
-- [nodeloc/nodeloc-android](https://github.com/nodeloc/nodeloc-android) - Native Android client for nodeloc.com, built with Jetpack Compose.
-- [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
-- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
-- [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 自动打卡（无人值守方案，非目标应用数据修改方案！）
 
 ## Vue
 
@@ -609,7 +610,7 @@
 
 ## Swift
 
-- [EEliberto/Pastel-macOS](https://github.com/EEliberto/Pastel-macOS) - 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
+- [EEliberto/Pastel-macOS](https://github.com/EEliberto/Pastel-macOS) - 在 Mac 上搜索并下载 iOS、iPadOS 与 visionOS App 的历史版本，管理 IPA，并通过隔空投送发送至 iPhone 或 iPad。
 - [saihgupr/GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - A native macOS menu bar app for seamless Google Drive syncing
 - [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) - MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules:
 - [FuzzyIdeas/StartupFolder](https://github.com/FuzzyIdeas/StartupFolder) - Run anything at startup by placing it in a special folder
