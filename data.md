@@ -37,7 +37,7 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [shenping1200/GCP-Manager-V3.4](https://github.com/shenping1200/GCP-Manager-V3.4) - GCP 批量管理工具
 - [JFGAtlas/aethergate-pro](https://github.com/JFGAtlas/aethergate-pro)
-- [baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate) - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
+- [OpenMili/aimili-vpngate](https://github.com/OpenMili/aimili-vpngate) - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
 - [joshpatten/PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client
 - [GongyiChuren/tg-watchbot](https://github.com/GongyiChuren/tg-watchbot) - Tg-Watchbot：Telegram 双向对话 Bot + 网页关键词推送 + 可视化面板
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
