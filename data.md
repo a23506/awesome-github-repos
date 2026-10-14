@@ -442,7 +442,7 @@
 - [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API)
 - [anlish01/Auto-Keepalive](https://github.com/anlish01/Auto-Keepalive) - Auto-Keepalive Pro——一个基于Cloudflare Workers部署的自动化保活监控系统
 - [asdf17128/bili-webos](https://github.com/asdf17128/bili-webos) - 📺 Open-source Bilibili (哔哩哔哩) client for LG webOS TVs — DASH up to 4K/HDR, danmaku, bangumi & live, all driven by the remote.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [roseforyou/cf-outlook-email](https://github.com/roseforyou/cf-outlook-email) - 📬 基于 Cloudflare Workers 的轻量级 Outlook 邮件管理工具 · 免费 · 无需服务器 | Lightweight Outlook email manager, serverless & free ⚡
 - [cmliu/CF-Workers-UsagePanel](https://github.com/cmliu/CF-Workers-UsagePanel) - CF Workers/Pages 请求数统计面板
 - [cmliu/epeius](https://github.com/cmliu/epeius) - 在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
