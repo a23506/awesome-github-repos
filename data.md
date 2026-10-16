@@ -15,7 +15,6 @@
 - [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [ToolDelta-Basic/ToolDelta](https://github.com/ToolDelta-Basic/ToolDelta) - 为网易《我的世界：中国版》特制的基岩版租赁服组件加载器
-- [18534516725/llm-api-setup-guides](https://github.com/18534516725/llm-api-setup-guides) - 88篇中文 AI API中转站与工具配置教程：Codex API、Claude Code API、OpenAI-compatible API、Base URL、Cursor、Cherry Studio、计费验证与错误排查。
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
 - [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
@@ -248,7 +247,7 @@
 - [Memoir-Studio/Memoir](https://github.com/Memoir-Studio/Memoir) - A quiet desktop notebook.
 - [wisemapping/wisemapping-frontend](https://github.com/wisemapping/wisemapping-frontend)
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.
 - [34892002/edgeKey](https://github.com/34892002/edgeKey) - 完全开源的发卡系统，一键部署到 Cloudflare Workers。| A Vike-powered full-stack digital shop, one-click deploy to Cloudflare Workers.
 - [Zippland/perler-beads](https://github.com/Zippland/perler-beads) - 拼豆底稿生成器 (Perler Beads Generator)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
@@ -439,6 +438,7 @@
 - [Panyoujies/bomaos-shop](https://github.com/Panyoujies/bomaos-shop) - 一款使用Java 语言开发的 个人商城系统，个人发卡源码，发卡系统，波猫发卡系统，发卡程序，动漫发卡
 - [tianrking/EdgeMirror](https://github.com/tianrking/EdgeMirror)
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
+- [18534516725/llm-api-setup-guides](https://github.com/18534516725/llm-api-setup-guides) - 88篇中文 AI API中转站与工具配置教程：Codex API、Claude Code API、OpenAI-compatible API、Base URL、Cursor、Cherry Studio、计费验证与错误排查。
 - [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API)
 - [anlish01/Auto-Keepalive](https://github.com/anlish01/Auto-Keepalive) - Auto-Keepalive Pro——一个基于Cloudflare Workers部署的自动化保活监控系统
 - [asdf17128/bili-webos](https://github.com/asdf17128/bili-webos) - 📺 Open-source Bilibili (哔哩哔哩) client for LG webOS TVs — DASH up to 4K/HDR, danmaku, bangumi & live, all driven by the remote.
