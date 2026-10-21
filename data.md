@@ -9,7 +9,7 @@
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
@@ -507,7 +507,7 @@
 - [jwangkun/Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。
 - [2211898719/termius-plus](https://github.com/2211898719/termius-plus) - 模仿termius的服务器运维工具
 - [chawuciren/cloudflare-mail-server](https://github.com/chawuciren/cloudflare-mail-server) - Self-hosted multi-user business email — Cloudflare Email Routing (inbound) + Resend (outbound), Node.js + SQLite. Send &   receive with your own domain, per-user mailboxes & logins.
-- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail
 - [wzn556/STUN-Redirect](https://github.com/wzn556/STUN-Redirect) - 本项目用于保存家庭宽带 ipv4/ipv6 端口，并根据当前网络自动重定向以访问 nas、openwrt、家庭内网服务器等，旨在解决 Lucky STUN 内网穿透端口变化频繁且不规律的问题。
 - [decadefaiz/CF-Server-AutoCheck](https://github.com/decadefaiz/CF-Server-AutoCheck) - 采用Cloudflare的workers的方式，部署服务器监控系统，帮助用户进行服务器到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
 - [decadefaiz/CF-Domain-AutoCheck](https://github.com/decadefaiz/CF-Domain-AutoCheck) - 采用Cloudflare的workers的方式，部署域名监控系统，帮助用户进行域名到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
