@@ -63,7 +63,7 @@
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [elunez/azure-manager](https://github.com/elunez/azure-manager) - Azure 第三方管理面板，支持多账号，支持开机、关机、更换IP等操作，操作前需提取 API 参数，详细说明请阅读文档
-- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi motion sensing platform for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [zhumengkang/agsb](https://github.com/zhumengkang/agsb)
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [saitomikuya/office365-manager](https://github.com/saitomikuya/office365-manager) - 这是一个基于 Flask 和 MSAL 的 Web 应用，用于集中管理多个 Microsoft 365/Office 365 租户中的用户、角色和订阅。界面支持中文，具备权限管理、角色分配、订阅管理、组织切换等功能。
