@@ -3,6 +3,7 @@
 
 ## Python
 
+- [chiro2001/deepseek-v4.1-flash-ascend910B](https://github.com/chiro2001/deepseek-v4.1-flash-ascend910B) - DeepSeek-V4.1-Flash W4A8 optimized vLLM deployment for Ascend 910B (A2) / 910C (A3): patches, one-command serve, self-check and acceptance
 - [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。
 - [ardeyouxipianyi/workbuddy2api-hub](https://github.com/ardeyouxipianyi/workbuddy2api-hub) - WorkBuddy 国际国内多账号反代网关，支持 Codex / Claude Code / DSH与标准 OpenAI 客户端。
 - [lza6/Aggregate-to-2api](https://github.com/lza6/Aggregate-to-2api) - 完美各种AI平台的2API，支持服务器部署，支持高并发打死上游，交流更新频道：https://t.me/Aggregate2api
