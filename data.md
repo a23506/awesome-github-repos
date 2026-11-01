@@ -146,7 +146,7 @@
 - [Songwo/AllEmailManager](https://github.com/Songwo/AllEmailManager) - 多邮箱管理集中推送
 - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
 - [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel)
-- [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
+- [outray-platform/outray](https://github.com/outray-platform/outray) - Open-source ngrok alternative.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
@@ -172,7 +172,7 @@
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [chen-zeong/DTV](https://github.com/chen-zeong/DTV) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then summarize, translate, or ask questions with your preferred AI provider.
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, translate, or chat with your media using your preferred AI provider.
 - [Rpeng666/Ant-Card](https://github.com/Rpeng666/Ant-Card) - A beautifull card generator, you can use it in xiaohongshu
 - [selaky/discourse-new-tab](https://github.com/selaky/discourse-new-tab) - 在新标签页打开Discourse的帖子
 - [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Selfhost web archiving and sharing service.
