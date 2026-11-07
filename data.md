@@ -40,7 +40,6 @@
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
 - [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
-- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) - Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)
 - [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
 - [akihitohyh/chatgpt-register-sub2api](https://github.com/akihitohyh/chatgpt-register-sub2api)
@@ -151,7 +150,7 @@
 - [GeminiLight/MindOS](https://github.com/GeminiLight/MindOS) - MindOS is a Human-AI Collaborative Mind System, where human thinks and agents act. Globally sync your mind for all agents: transparent, controllable, and evolving symbiotically.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [Zoroaaa/it-toolbox](https://github.com/Zoroaaa/it-toolbox) - IT Toolbox 是一款基于 Cloudflare Pages Functions 全栈部署的面向开发者的在线工具箱，集成 146 高频开发工具，覆盖格式化、编码解码、加密哈希、网络查询、文本处理、颜色设计等多个类别。
+- [Zoroaaa/it-toolbox](https://github.com/Zoroaaa/it-toolbox) - IT Toolbox 是一款基于 Cloudflare Pages Functions 全栈部署的面向开发者的在线工具箱，集成 140+ 高频开发工具，覆盖格式化、编码解码、加密哈希、网络查询、文本处理、颜色设计等多个类别。
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn
 - [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
@@ -234,6 +233,7 @@
 - [msdsj/grok-account-manager-main](https://github.com/msdsj/grok-account-manager-main) - grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 - [xiaozhou26/icloud-hme](https://github.com/xiaozhou26/icloud-hme)
+- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [HEXUXIU/M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) - Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
