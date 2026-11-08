@@ -3,6 +3,7 @@
 
 ## HTML
 
+- [CzJam/gjgjxweb](https://github.com/CzJam/gjgjxweb) - 《搞机工具箱》Web移植版
 - [yt1988/me2cloud](https://github.com/yt1988/me2cloud) - Free cloud latency test from your own browser: median, jitter and loss to 360+ regions of AWS, Azure, Google Cloud and 14 more providers. 10 languages.
 - [almus2zhang/gotlucky](https://github.com/almus2zhang/gotlucky)
 - [wisemapping/wisemapping-desktop](https://github.com/wisemapping/wisemapping-desktop) - WiseMapping version in Desktop for local installation.
@@ -578,7 +579,6 @@
 - [nullbyte-lab/wechat-multi-open](https://github.com/nullbyte-lab/wechat-multi-open) - macOS 微信多开终极解决方案 - 交互式管理工具
 - [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-- [faithleysath/comander](https://github.com/faithleysath/comander) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
 - [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster) - FlowMaster流量监控系统
 - [ONLYOFFICE/Docker-DocumentServer](https://github.com/ONLYOFFICE/Docker-DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
