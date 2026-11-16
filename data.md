@@ -16,7 +16,7 @@
 - [Memoir-Studio/Memoir](https://github.com/Memoir-Studio/Memoir) - A quiet desktop notebook.
 - [wisemapping/wisemapping-frontend](https://github.com/wisemapping/wisemapping-frontend)
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [34892002/edgeKey](https://github.com/34892002/edgeKey) - 完全开源的发卡系统，一键部署到 Cloudflare Workers。| A Vike-powered full-stack digital shop, one-click deploy to Cloudflare Workers.
 - [Zippland/perler-beads](https://github.com/Zippland/perler-beads) - 拼豆底稿生成器 (Perler Beads Generator)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
@@ -163,6 +163,7 @@
 - [siknet/FreePEP](https://github.com/siknet/FreePEP) - 人教社电子教材下载器
 - [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
 - [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) - Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
+- [msdsj/grok-account-manager-main](https://github.com/msdsj/grok-account-manager-main) - grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT
 - [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [ToolDelta-Basic/ToolDelta](https://github.com/ToolDelta-Basic/ToolDelta) - 为网易《我的世界：中国版》特制的基岩版租赁服组件加载器
@@ -262,7 +263,6 @@
 - [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) - 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
 - [kejilion/KPanel](https://github.com/kejilion/KPanel) - 与 kejilion.sh 双向互通的开源 Linux 运维面板，支持双模式工作台、多主机管理与 AI 助手。
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
-- [msdsj/grok-account-manager-main](https://github.com/msdsj/grok-account-manager-main) - grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 - [xiaozhou26/icloud-hme](https://github.com/xiaozhou26/icloud-hme)
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
